@@ -1,0 +1,5564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="type" attr.type="string"/>
+<key id="d4" for="node" attr.name="text" attr.type="string"/>
+<key id="d3" for="node" attr.name="page" attr.type="long"/>
+<key id="d2" for="node" attr.name="title" attr.type="string"/>
+<key id="d1" for="node" attr.name="name" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="doc">
+  <data key="d0">document</data>
+  <data key="d1">ai_legends_email_report.pdf</data>
+</node>
+<node id="section_0">
+  <data key="d0">section</data>
+  <data key="d2">Document</data>
+</node>
+<node id="para_0">
+  <data key="d0">paragraph</data>
+  <data key="d3">1</data>
+</node>
+<node id="para_1">
+  <data key="d0">paragraph</data>
+  <data key="d3">2</data>
+</node>
+<node id="para_2">
+  <data key="d0">paragraph</data>
+  <data key="d3">3</data>
+</node>
+<node id="para_3">
+  <data key="d0">paragraph</data>
+  <data key="d3">4</data>
+</node>
+<node id="para_4">
+  <data key="d0">paragraph</data>
+  <data key="d3">5</data>
+</node>
+<node id="para_5">
+  <data key="d0">paragraph</data>
+  <data key="d3">6</data>
+</node>
+<node id="para_6">
+  <data key="d0">paragraph</data>
+  <data key="d3">7</data>
+</node>
+<node id="para_7">
+  <data key="d0">paragraph</data>
+  <data key="d3">8</data>
+</node>
+<node id="para_8">
+  <data key="d0">paragraph</data>
+  <data key="d3">9</data>
+</node>
+<node id="para_9">
+  <data key="d0">paragraph</data>
+  <data key="d3">10</data>
+</node>
+<node id="para_10">
+  <data key="d0">paragraph</data>
+  <data key="d3">11</data>
+</node>
+<node id="para_11">
+  <data key="d0">paragraph</data>
+  <data key="d3">12</data>
+</node>
+<node id="para_12">
+  <data key="d0">paragraph</data>
+  <data key="d3">13</data>
+</node>
+<node id="para_13">
+  <data key="d0">paragraph</data>
+  <data key="d3">14</data>
+</node>
+<node id="para_14">
+  <data key="d0">paragraph</data>
+  <data key="d3">15</data>
+</node>
+<node id="para_15">
+  <data key="d0">paragraph</data>
+  <data key="d3">16</data>
+</node>
+<node id="para_16">
+  <data key="d0">paragraph</data>
+  <data key="d3">17</data>
+</node>
+<node id="para_17">
+  <data key="d0">paragraph</data>
+  <data key="d3">18</data>
+</node>
+<node id="para_18">
+  <data key="d0">paragraph</data>
+  <data key="d3">19</data>
+</node>
+<node id="para_19">
+  <data key="d0">paragraph</data>
+  <data key="d3">20</data>
+</node>
+<node id="para_20">
+  <data key="d0">paragraph</data>
+  <data key="d3">21</data>
+</node>
+<node id="para_21">
+  <data key="d0">paragraph</data>
+  <data key="d3">22</data>
+</node>
+<node id="para_22">
+  <data key="d0">paragraph</data>
+  <data key="d3">23</data>
+</node>
+<node id="para_23">
+  <data key="d0">paragraph</data>
+  <data key="d3">24</data>
+</node>
+<node id="para_24">
+  <data key="d0">paragraph</data>
+  <data key="d3">25</data>
+</node>
+<node id="para_25">
+  <data key="d0">paragraph</data>
+  <data key="d3">26</data>
+</node>
+<node id="para_26">
+  <data key="d0">paragraph</data>
+  <data key="d3">27</data>
+</node>
+<node id="para_27">
+  <data key="d0">paragraph</data>
+  <data key="d3">28</data>
+</node>
+<node id="para_28">
+  <data key="d0">paragraph</data>
+  <data key="d3">29</data>
+</node>
+<node id="para_29">
+  <data key="d0">paragraph</data>
+  <data key="d3">30</data>
+</node>
+<node id="para_30">
+  <data key="d0">paragraph</data>
+  <data key="d3">31</data>
+</node>
+<node id="para_31">
+  <data key="d0">paragraph</data>
+  <data key="d3">32</data>
+</node>
+<node id="para_32">
+  <data key="d0">paragraph</data>
+  <data key="d3">33</data>
+</node>
+<node id="para_33">
+  <data key="d0">paragraph</data>
+  <data key="d3">34</data>
+</node>
+<node id="para_34">
+  <data key="d0">paragraph</data>
+  <data key="d3">35</data>
+</node>
+<node id="para_35">
+  <data key="d0">paragraph</data>
+  <data key="d3">36</data>
+</node>
+<node id="para_36">
+  <data key="d0">paragraph</data>
+  <data key="d3">37</data>
+</node>
+<node id="para_37">
+  <data key="d0">paragraph</data>
+  <data key="d3">38</data>
+</node>
+<node id="entity_0">
+  <data key="d0">entity</data>
+  <data key="d4">the Digital Frontier
+Project Code:</data>
+</node>
+<node id="entity_1">
+  <data key="d0">entity</data>
+  <data key="d4">September 2025 - February 2026</data>
+</node>
+<node id="entity_2">
+  <data key="d0">entity</data>
+  <data key="d4">Project Management Office
+Report Date</data>
+</node>
+<node id="entity_3">
+  <data key="d0">entity</data>
+  <data key="d4">February 6, 2026</data>
+</node>
+<node id="entity_4">
+  <data key="d0">entity</data>
+  <data key="d4">1.0</data>
+</node>
+<node id="entity_5">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_6">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_7">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_8">
+  <data key="d0">entity</data>
+  <data key="d4">Project Timeline &amp; Milestones 4</data>
+</node>
+<node id="entity_9">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_10">
+  <data key="d0">entity</data>
+  <data key="d4">4</data>
+</node>
+<node id="entity_11">
+  <data key="d0">entity</data>
+  <data key="d4">6</data>
+</node>
+<node id="entity_12">
+  <data key="d0">entity</data>
+  <data key="d4">5</data>
+</node>
+<node id="entity_13">
+  <data key="d0">entity</data>
+  <data key="d4">Technical Team</data>
+</node>
+<node id="entity_14">
+  <data key="d0">entity</data>
+  <data key="d4">8</data>
+</node>
+<node id="entity_15">
+  <data key="d0">entity</data>
+  <data key="d4">6</data>
+</node>
+<node id="entity_16">
+  <data key="d0">entity</data>
+  <data key="d4">Design Team Reports</data>
+</node>
+<node id="entity_17">
+  <data key="d0">entity</data>
+  <data key="d4">11</data>
+</node>
+<node id="entity_18">
+  <data key="d0">entity</data>
+  <data key="d4">7</data>
+</node>
+<node id="entity_19">
+  <data key="d0">entity</data>
+  <data key="d4">Metrics 13
+8</data>
+</node>
+<node id="entity_20">
+  <data key="d0">entity</data>
+  <data key="d4">Feedback 15
+9</data>
+</node>
+<node id="entity_21">
+  <data key="d0">entity</data>
+  <data key="d4">Infrastructure &amp; Scalability</data>
+</node>
+<node id="entity_22">
+  <data key="d0">entity</data>
+  <data key="d4">18</data>
+</node>
+<node id="entity_23">
+  <data key="d0">entity</data>
+  <data key="d4">19</data>
+</node>
+<node id="entity_24">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_25">
+  <data key="d0">entity</data>
+  <data key="d4">Digital</data>
+</node>
+<node id="entity_26">
+  <data key="d0">entity</data>
+  <data key="d4">Frontier</data>
+</node>
+<node id="entity_27">
+  <data key="d0">entity</data>
+  <data key="d4">September 2025</data>
+</node>
+<node id="entity_28">
+  <data key="d0">entity</data>
+  <data key="d4">Alpha</data>
+</node>
+<node id="entity_29">
+  <data key="d0">entity</data>
+  <data key="d4">February 2026</data>
+</node>
+<node id="entity_30">
+  <data key="d0">entity</data>
+  <data key="d4">Alpha</data>
+</node>
+<node id="entity_31">
+  <data key="d0">entity</data>
+  <data key="d4">AI</data>
+</node>
+<node id="entity_32">
+  <data key="d0">entity</data>
+  <data key="d4">NPC</data>
+</node>
+<node id="entity_33">
+  <data key="d0">entity</data>
+  <data key="d4">5%</data>
+</node>
+<node id="entity_34">
+  <data key="d0">entity</data>
+  <data key="d4">NPC</data>
+</node>
+<node id="entity_35">
+  <data key="d0">entity</data>
+  <data key="d4">100K+</data>
+</node>
+<node id="entity_36">
+  <data key="d0">entity</data>
+  <data key="d4">Revised Timeline</data>
+</node>
+<node id="entity_37">
+  <data key="d0">entity</data>
+  <data key="d4">Q3 2026</data>
+</node>
+<node id="entity_38">
+  <data key="d0">entity</data>
+  <data key="d4">$1.85M</data>
+</node>
+<node id="entity_39">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_40">
+  <data key="d0">entity</data>
+  <data key="d4">Project Timeline &amp; Milestones
+Phase Target Date Status</data>
+</node>
+<node id="entity_41">
+  <data key="d0">entity</data>
+  <data key="d4">2025-09-01</data>
+</node>
+<node id="entity_42">
+  <data key="d0">entity</data>
+  <data key="d4">Completed
+Concept &amp; Design Phase</data>
+</node>
+<node id="entity_43">
+  <data key="d0">entity</data>
+  <data key="d4">2025-10-15</data>
+</node>
+<node id="entity_44">
+  <data key="d0">entity</data>
+  <data key="d4">2025-12</data>
+</node>
+<node id="entity_45">
+  <data key="d0">entity</data>
+  <data key="d4">2026-01-31</data>
+</node>
+<node id="entity_46">
+  <data key="d0">entity</data>
+  <data key="d4">2026-03-15</data>
+</node>
+<node id="entity_47">
+  <data key="d0">entity</data>
+  <data key="d4">2026-07-01</data>
+</node>
+<node id="entity_48">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_49">
+  <data key="d0">entity</data>
+  <data key="d4">Budget Overview
+Category Allocation Spent</data>
+</node>
+<node id="entity_50">
+  <data key="d0">entity</data>
+  <data key="d4">$8,575,000 $5,420,000 $3,155,000</data>
+</node>
+<node id="entity_51">
+  <data key="d0">entity</data>
+  <data key="d4">Graphics &amp; Art</data>
+</node>
+<node id="entity_52">
+  <data key="d0">entity</data>
+  <data key="d4">$6,125,000 $4,890,000 $</data>
+</node>
+<node id="entity_53">
+  <data key="d0">entity</data>
+  <data key="d4">1,235,000</data>
+</node>
+<node id="entity_54">
+  <data key="d0">entity</data>
+  <data key="d4">$4,900,000 $3,210,000 $</data>
+</node>
+<node id="entity_55">
+  <data key="d0">entity</data>
+  <data key="d4">1,690,000</data>
+</node>
+<node id="entity_56">
+  <data key="d0">entity</data>
+  <data key="d4">$2,450,000 $620,000 $1,830,000</data>
+</node>
+<node id="entity_57">
+  <data key="d0">entity</data>
+  <data key="d4">QA &amp; Testing</data>
+</node>
+<node id="entity_58">
+  <data key="d0">entity</data>
+  <data key="d4">$1,715,000 $890,000 $</data>
+</node>
+<node id="entity_59">
+  <data key="d0">entity</data>
+  <data key="d4">825,000</data>
+</node>
+<node id="entity_60">
+  <data key="d0">entity</data>
+  <data key="d4">$735,000 $410,000 $</data>
+</node>
+<node id="entity_61">
+  <data key="d0">entity</data>
+  <data key="d4">325,000</data>
+</node>
+<node id="entity_62">
+  <data key="d0">entity</data>
+  <data key="d4">$1,850,000 $</data>
+</node>
+<node id="entity_63">
+  <data key="d0">entity</data>
+  <data key="d4">1,850,000</data>
+</node>
+<node id="entity_64">
+  <data key="d0">entity</data>
+  <data key="d4">26,350,000</data>
+</node>
+<node id="entity_65">
+  <data key="d0">entity</data>
+  <data key="d4">10,910,000</data>
+</node>
+<node id="entity_66">
+  <data key="d0">entity</data>
+  <data key="d4">4</data>
+</node>
+<node id="entity_67">
+  <data key="d0">entity</data>
+  <data key="d4">Executive Communications
+Key</data>
+</node>
+<node id="entity_68">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra Chen</data>
+</node>
+<node id="entity_69">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_70">
+  <data key="d0">entity</data>
+  <data key="d4">Jonathan Wei</data>
+</node>
+<node id="entity_71">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_72">
+  <data key="d0">entity</data>
+  <data key="d4">Elena Vasquez</data>
+</node>
+<node id="entity_73">
+  <data key="d0">entity</data>
+  <data key="d4">September 3, 2025</data>
+</node>
+<node id="entity_74">
+  <data key="d0">entity</data>
+  <data key="d4">9:15 AM</data>
+</node>
+<node id="entity_75">
+  <data key="d0">entity</data>
+  <data key="d4">the Digital Frontier - Official Project
+Greenlight
+Dear Team</data>
+</node>
+<node id="entity_76">
+  <data key="d0">entity</data>
+  <data key="d4">AI Legends: Chronicles of the Digital Frontier</data>
+</node>
+<node id="entity_77">
+  <data key="d0">entity</data>
+  <data key="d4">NeuralForge AI Studios</data>
+</node>
+<node id="entity_78">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus</data>
+</node>
+<node id="entity_79">
+  <data key="d0">entity</data>
+  <data key="d4">NPC</data>
+</node>
+<node id="entity_80">
+  <data key="d0">entity</data>
+  <data key="d4">$24.5 million</data>
+</node>
+<node id="entity_81">
+  <data key="d0">entity</data>
+  <data key="d4">10 months</data>
+</node>
+<node id="entity_82">
+  <data key="d0">entity</data>
+  <data key="d4">Q3 2026</data>
+</node>
+<node id="entity_83">
+  <data key="d0">entity</data>
+  <data key="d4">24 months</data>
+</node>
+<node id="entity_84">
+  <data key="d0">entity</data>
+  <data key="d4">millions</data>
+</node>
+<node id="entity_85">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus</data>
+</node>
+<node id="entity_86">
+  <data key="d0">entity</data>
+  <data key="d4">Jonathan</data>
+</node>
+<node id="entity_87">
+  <data key="d0">entity</data>
+  <data key="d4">end of week</data>
+</node>
+<node id="entity_88">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah</data>
+</node>
+<node id="entity_89">
+  <data key="d0">entity</data>
+  <data key="d4">Elena</data>
+</node>
+<node id="entity_90">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra Chen
+CEO</data>
+</node>
+<node id="entity_91">
+  <data key="d0">entity</data>
+  <data key="d4">NeuralForge AI Studios</data>
+</node>
+<node id="entity_92">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_93">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_94">
+  <data key="d0">entity</data>
+  <data key="d4">Priya Sharma</data>
+</node>
+<node id="entity_95">
+  <data key="d0">entity</data>
+  <data key="d4">David Okonkwo</data>
+</node>
+<node id="entity_96">
+  <data key="d0">entity</data>
+  <data key="d4">James Morrison</data>
+</node>
+<node id="entity_97">
+  <data key="d0">entity</data>
+  <data key="d4">September 8, 2025</data>
+</node>
+<node id="entity_98">
+  <data key="d0">entity</data>
+  <data key="d4">2:30 PM</data>
+</node>
+<node id="entity_99">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah</data>
+</node>
+<node id="entity_100">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra</data>
+</node>
+<node id="entity_101">
+  <data key="d0">entity</data>
+  <data key="d4">AI Legends</data>
+</node>
+<node id="entity_102">
+  <data key="d0">entity</data>
+  <data key="d4">CORE AI</data>
+</node>
+<node id="entity_103">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_104">
+  <data key="d0">entity</data>
+  <data key="d4">NNE</data>
+</node>
+<node id="entity_105">
+  <data key="d0">entity</data>
+  <data key="d4">50</data>
+</node>
+<node id="entity_106">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_107">
+  <data key="d0">entity</data>
+  <data key="d4">Adaptive Behavior Intelligence</data>
+</node>
+<node id="entity_108">
+  <data key="d0">entity</data>
+  <data key="d4">NPC</data>
+</node>
+<node id="entity_109">
+  <data key="d0">entity</data>
+  <data key="d4">David</data>
+</node>
+<node id="entity_110">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_111">
+  <data key="d0">entity</data>
+  <data key="d4">Procedural World Synthesis</data>
+</node>
+<node id="entity_112">
+  <data key="d0">entity</data>
+  <data key="d4">PWS</data>
+</node>
+<node id="entity_113">
+  <data key="d0">entity</data>
+  <data key="d4">Elena</data>
+</node>
+<node id="entity_114">
+  <data key="d0">entity</data>
+  <data key="d4">4</data>
+</node>
+<node id="entity_115">
+  <data key="d0">entity</data>
+  <data key="d4">Dynamic Difficulty Orchestration</data>
+</node>
+<node id="entity_116">
+  <data key="d0">entity</data>
+  <data key="d4">DDO</data>
+</node>
+<node id="entity_117">
+  <data key="d0">entity</data>
+  <data key="d4">5.3</data>
+</node>
+<node id="entity_118">
+  <data key="d0">entity</data>
+  <data key="d4">AI</data>
+</node>
+<node id="entity_119">
+  <data key="d0">entity</data>
+  <data key="d4">PyTorch 2.0</data>
+</node>
+<node id="entity_120">
+  <data key="d0">entity</data>
+  <data key="d4">GPU</data>
+</node>
+<node id="entity_121">
+  <data key="d0">entity</data>
+  <data key="d4">Redis</data>
+</node>
+<node id="entity_122">
+  <data key="d0">entity</data>
+  <data key="d4">Monday</data>
+</node>
+<node id="entity_123">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_124">
+  <data key="d0">entity</data>
+  <data key="d4">NeuralForge AI Studios</data>
+</node>
+<node id="entity_125">
+  <data key="d0">entity</data>
+  <data key="d4">Jonathan Wei</data>
+</node>
+<node id="entity_126">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra Chen</data>
+</node>
+<node id="entity_127">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_128">
+  <data key="d0">entity</data>
+  <data key="d4">October 15, 2025</data>
+</node>
+<node id="entity_129">
+  <data key="d0">entity</data>
+  <data key="d4">4:45 PM</data>
+</node>
+<node id="entity_130">
+  <data key="d0">entity</data>
+  <data key="d4">Q4 2025 Budget Analysis - AI</data>
+</node>
+<node id="entity_131">
+  <data key="d0">entity</data>
+  <data key="d4">Digital</data>
+</node>
+<node id="entity_132">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra</data>
+</node>
+<node id="entity_133">
+  <data key="d0">entity</data>
+  <data key="d4">Q4 2025</data>
+</node>
+<node id="entity_134">
+  <data key="d0">entity</data>
+  <data key="d4">Total Approved Budget</data>
+</node>
+<node id="entity_135">
+  <data key="d0">entity</data>
+  <data key="d4">24,500,000</data>
+</node>
+<node id="entity_136">
+  <data key="d0">entity</data>
+  <data key="d4">Breakdown by Category</data>
+</node>
+<node id="entity_137">
+  <data key="d0">entity</data>
+  <data key="d4">AI Development &amp; Research</data>
+</node>
+<node id="entity_138">
+  <data key="d0">entity</data>
+  <data key="d4">8,575,000</data>
+</node>
+<node id="entity_139">
+  <data key="d0">entity</data>
+  <data key="d4">35%</data>
+</node>
+<node id="entity_140">
+  <data key="d0">entity</data>
+  <data key="d4">6,125,000</data>
+</node>
+<node id="entity_141">
+  <data key="d0">entity</data>
+  <data key="d4">25%</data>
+</node>
+<node id="entity_142">
+  <data key="d0">entity</data>
+  <data key="d4">- Engineering &amp; Infrastructure</data>
+</node>
+<node id="entity_143">
+  <data key="d0">entity</data>
+  <data key="d4">4,900,000</data>
+</node>
+<node id="entity_144">
+  <data key="d0">entity</data>
+  <data key="d4">20%</data>
+</node>
+<node id="entity_145">
+  <data key="d0">entity</data>
+  <data key="d4">2,450,000</data>
+</node>
+<node id="entity_146">
+  <data key="d0">entity</data>
+  <data key="d4">10%</data>
+</node>
+<node id="entity_147">
+  <data key="d0">entity</data>
+  <data key="d4">1,715,000</data>
+</node>
+<node id="entity_148">
+  <data key="d0">entity</data>
+  <data key="d4">7%</data>
+</node>
+<node id="entity_149">
+  <data key="d0">entity</data>
+  <data key="d4">735,000</data>
+</node>
+<node id="entity_150">
+  <data key="d0">entity</data>
+  <data key="d4">3%</data>
+</node>
+<node id="entity_151">
+  <data key="d0">entity</data>
+  <data key="d4">Q4 2025</data>
+</node>
+<node id="entity_152">
+  <data key="d0">entity</data>
+  <data key="d4">Budget</data>
+</node>
+<node id="entity_153">
+  <data key="d0">entity</data>
+  <data key="d4">6,200,000</data>
+</node>
+<node id="entity_154">
+  <data key="d0">entity</data>
+  <data key="d4">5,890,000</data>
+</node>
+<node id="entity_155">
+  <data key="d0">entity</data>
+  <data key="d4">310,000</data>
+</node>
+<node id="entity_156">
+  <data key="d0">entity</data>
+  <data key="d4">5%</data>
+</node>
+<node id="entity_157">
+  <data key="d0">entity</data>
+  <data key="d4">GPU</data>
+</node>
+<node id="entity_158">
+  <data key="d0">entity</data>
+  <data key="d4">January</data>
+</node>
+<node id="entity_159">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus</data>
+</node>
+<node id="entity_160">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_161">
+  <data key="d0">entity</data>
+  <data key="d4">GPU</data>
+</node>
+<node id="entity_162">
+  <data key="d0">entity</data>
+  <data key="d4">15%</data>
+</node>
+<node id="entity_163">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_164">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_165">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_166">
+  <data key="d0">entity</data>
+  <data key="d4">$200K</data>
+</node>
+<node id="entity_167">
+  <data key="d0">entity</data>
+  <data key="d4">Q1</data>
+</node>
+<node id="entity_168">
+  <data key="d0">entity</data>
+  <data key="d4">AI</data>
+</node>
+<node id="entity_169">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_170">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_171">
+  <data key="d0">entity</data>
+  <data key="d4">500</data>
+</node>
+<node id="entity_172">
+  <data key="d0">entity</data>
+  <data key="d4">Thursday</data>
+</node>
+<node id="entity_173">
+  <data key="d0">entity</data>
+  <data key="d4">Jonathan Wei
+CFO</data>
+</node>
+<node id="entity_174">
+  <data key="d0">entity</data>
+  <data key="d4">NeuralForge AI Studios</data>
+</node>
+<node id="entity_175">
+  <data key="d0">entity</data>
+  <data key="d4">5</data>
+</node>
+<node id="entity_176">
+  <data key="d0">entity</data>
+  <data key="d4">Technical Team Updates
+Engineering</data>
+</node>
+<node id="entity_177">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_178">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_179">
+  <data key="d0">entity</data>
+  <data key="d4">David Okonkwo</data>
+</node>
+<node id="entity_180">
+  <data key="d0">entity</data>
+  <data key="d4">Priya Sharma</data>
+</node>
+<node id="entity_181">
+  <data key="d0">entity</data>
+  <data key="d4">January 12, 2026</data>
+</node>
+<node id="entity_182">
+  <data key="d0">entity</data>
+  <data key="d4">11:20 AM
+Subject:</data>
+</node>
+<node id="entity_183">
+  <data key="d0">entity</data>
+  <data key="d4">Alpha Build Progress Report - Week 16</data>
+</node>
+<node id="entity_184">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus</data>
+</node>
+<node id="entity_185">
+  <data key="d0">entity</data>
+  <data key="d4">Alpha</data>
+</node>
+<node id="entity_186">
+  <data key="d0">entity</data>
+  <data key="d4">COMPLETED</data>
+</node>
+<node id="entity_187">
+  <data key="d0">entity</data>
+  <data key="d4">RAM</data>
+</node>
+<node id="entity_188">
+  <data key="d0">entity</data>
+  <data key="d4">23%</data>
+</node>
+<node id="entity_189">
+  <data key="d0">entity</data>
+  <data key="d4">ETA</data>
+</node>
+<node id="entity_190">
+  <data key="d0">entity</data>
+  <data key="d4">Jan 20</data>
+</node>
+<node id="entity_191">
+  <data key="d0">entity</data>
+  <data key="d4">QA</data>
+</node>
+<node id="entity_192">
+  <data key="d0">entity</data>
+  <data key="d4">Chapter 2</data>
+</node>
+<node id="entity_193">
+  <data key="d0">entity</data>
+  <data key="d4">1 week</data>
+</node>
+<node id="entity_194">
+  <data key="d0">entity</data>
+  <data key="d4">94.2%</data>
+</node>
+<node id="entity_195">
+  <data key="d0">entity</data>
+  <data key="d4">95%</data>
+</node>
+<node id="entity_196">
+  <data key="d0">entity</data>
+  <data key="d4">58</data>
+</node>
+<node id="entity_197">
+  <data key="d0">entity</data>
+  <data key="d4">12.3 seconds</data>
+</node>
+<node id="entity_198">
+  <data key="d0">entity</data>
+  <data key="d4">10 seconds</data>
+</node>
+<node id="entity_199">
+  <data key="d0">entity</data>
+  <data key="d4">23</data>
+</node>
+<node id="entity_200">
+  <data key="d0">entity</data>
+  <data key="d4">47</data>
+</node>
+<node id="entity_201">
+  <data key="d0">entity</data>
+  <data key="d4">this week</data>
+</node>
+<node id="entity_202">
+  <data key="d0">entity</data>
+  <data key="d4">David</data>
+</node>
+<node id="entity_203">
+  <data key="d0">entity</data>
+  <data key="d4">NPC</data>
+</node>
+<node id="entity_204">
+  <data key="d0">entity</data>
+  <data key="d4">2+
+hours</data>
+</node>
+<node id="entity_205">
+  <data key="d0">entity</data>
+  <data key="d4">tomorrow</data>
+</node>
+<node id="entity_206">
+  <data key="d0">entity</data>
+  <data key="d4">tomorrow</data>
+</node>
+<node id="entity_207">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_208">
+  <data key="d0">entity</data>
+  <data key="d4">Priya Sharma</data>
+</node>
+<node id="entity_209">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_210">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_211">
+  <data key="d0">entity</data>
+  <data key="d4">David Okonkwo</data>
+</node>
+<node id="entity_212">
+  <data key="d0">entity</data>
+  <data key="d4">January 18, 2026</data>
+</node>
+<node id="entity_213">
+  <data key="d0">entity</data>
+  <data key="d4">3:15 PM</data>
+</node>
+<node id="entity_214">
+  <data key="d0">entity</data>
+  <data key="d4">NPC Behavior Analysis - Unexpected Emergent Behaviors</data>
+</node>
+<node id="entity_215">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah</data>
+</node>
+<node id="entity_216">
+  <data key="d0">entity</data>
+  <data key="d4">week</data>
+</node>
+<node id="entity_217">
+  <data key="d0">entity</data>
+  <data key="d4">AI</data>
+</node>
+<node id="entity_218">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_219">
+  <data key="d0">entity</data>
+  <data key="d4">Alliance Formation
+NPCs</data>
+</node>
+<node id="entity_220">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_221">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_222">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_223">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_224">
+  <data key="d0">entity</data>
+  <data key="d4">NPC</data>
+</node>
+<node id="entity_225">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_226">
+  <data key="d0">entity</data>
+  <data key="d4">Priya Sharma</data>
+</node>
+<node id="entity_227">
+  <data key="d0">entity</data>
+  <data key="d4">Elena Vasquez</data>
+</node>
+<node id="entity_228">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra Chen</data>
+</node>
+<node id="entity_229">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_230">
+  <data key="d0">entity</data>
+  <data key="d4">Yuki Tanaka</data>
+</node>
+<node id="entity_231">
+  <data key="d0">entity</data>
+  <data key="d4">Michael Park</data>
+</node>
+<node id="entity_232">
+  <data key="d0">entity</data>
+  <data key="d4">November 20, 2025</data>
+</node>
+<node id="entity_233">
+  <data key="d0">entity</data>
+  <data key="d4">10:00 AM
+Subject:</data>
+</node>
+<node id="entity_234">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra</data>
+</node>
+<node id="entity_235">
+  <data key="d0">entity</data>
+  <data key="d4">Art Direction</data>
+</node>
+<node id="entity_236">
+  <data key="d0">entity</data>
+  <data key="d4">three</data>
+</node>
+<node id="entity_237">
+  <data key="d0">entity</data>
+  <data key="d4">Art Style</data>
+</node>
+<node id="entity_238">
+  <data key="d0">entity</data>
+  <data key="d4">Michelangelo</data>
+</node>
+<node id="entity_239">
+  <data key="d0">entity</data>
+  <data key="d4">Color Palette</data>
+</node>
+<node id="entity_240">
+  <data key="d0">entity</data>
+  <data key="d4">1a5276</data>
+</node>
+<node id="entity_241">
+  <data key="d0">entity</data>
+  <data key="d4">c0392b</data>
+</node>
+<node id="entity_242">
+  <data key="d0">entity</data>
+  <data key="d4">5d6d7e</data>
+</node>
+<node id="entity_243">
+  <data key="d0">entity</data>
+  <data key="d4">UI</data>
+</node>
+<node id="entity_244">
+  <data key="d0">entity</data>
+  <data key="d4">AI</data>
+</node>
+<node id="entity_245">
+  <data key="d0">entity</data>
+  <data key="d4">Three</data>
+</node>
+<node id="entity_246">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_247">
+  <data key="d0">entity</data>
+  <data key="d4">Synthesis Cities</data>
+</node>
+<node id="entity_248">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_249">
+  <data key="d0">entity</data>
+  <data key="d4">The Organic Wilds - nature</data>
+</node>
+<node id="entity_250">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_251">
+  <data key="d0">entity</data>
+  <data key="d4">Digital Realm</data>
+</node>
+<node id="entity_252">
+  <data key="d0">entity</data>
+  <data key="d4">FOCUS GROUP FEEDBACK</data>
+</node>
+<node id="entity_253">
+  <data key="d0">entity</data>
+  <data key="d4">87%</data>
+</node>
+<node id="entity_254">
+  <data key="d0">entity</data>
+  <data key="d4">92%</data>
+</node>
+<node id="entity_255">
+  <data key="d0">entity</data>
+  <data key="d4">Yuki</data>
+</node>
+<node id="entity_256">
+  <data key="d0">entity</data>
+  <data key="d4">Michael</data>
+</node>
+<node id="entity_257">
+  <data key="d0">entity</data>
+  <data key="d4">UI</data>
+</node>
+<node id="entity_258">
+  <data key="d0">entity</data>
+  <data key="d4">this
+week</data>
+</node>
+<node id="entity_259">
+  <data key="d0">entity</data>
+  <data key="d4">Elena Vasquez</data>
+</node>
+<node id="entity_260">
+  <data key="d0">entity</data>
+  <data key="d4">Michael Park</data>
+</node>
+<node id="entity_261">
+  <data key="d0">entity</data>
+  <data key="d4">Elena Vasquez</data>
+</node>
+<node id="entity_262">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_263">
+  <data key="d0">entity</data>
+  <data key="d4">Yuki Tanaka</data>
+</node>
+<node id="entity_264">
+  <data key="d0">entity</data>
+  <data key="d4">December 8, 2025</data>
+</node>
+<node id="entity_265">
+  <data key="d0">entity</data>
+  <data key="d4">2:45 PM</data>
+</node>
+<node id="entity_266">
+  <data key="d0">entity</data>
+  <data key="d4">24</data>
+</node>
+<node id="entity_267">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_268">
+  <data key="d0">entity</data>
+  <data key="d4">2.3 seconds</data>
+</node>
+<node id="entity_269">
+  <data key="d0">entity</data>
+  <data key="d4">3s</data>
+</node>
+<node id="entity_270">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_271">
+  <data key="d0">entity</data>
+  <data key="d4">4.1 seconds</data>
+</node>
+<node id="entity_272">
+  <data key="d0">entity</data>
+  <data key="d4">4s</data>
+</node>
+<node id="entity_273">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_274">
+  <data key="d0">entity</data>
+  <data key="d4">96%</data>
+</node>
+<node id="entity_275">
+  <data key="d0">entity</data>
+  <data key="d4">88%</data>
+</node>
+<node id="entity_276">
+  <data key="d0">entity</data>
+  <data key="d4">12%</data>
+</node>
+<node id="entity_277">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_278">
+  <data key="d0">entity</data>
+  <data key="d4">Inventory System</data>
+</node>
+<node id="entity_279">
+  <data key="d0">entity</data>
+  <data key="d4">79%</data>
+</node>
+<node id="entity_280">
+  <data key="d0">entity</data>
+  <data key="d4">6</data>
+</node>
+<node id="entity_281">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_282">
+  <data key="d0">entity</data>
+  <data key="d4">4</data>
+</node>
+<node id="entity_283">
+  <data key="d0">entity</data>
+  <data key="d4">Companion Interface
+- Users</data>
+</node>
+<node id="entity_284">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_285">
+  <data key="d0">entity</data>
+  <data key="d4">4</data>
+</node>
+<node id="entity_286">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_287">
+  <data key="d0">entity</data>
+  <data key="d4">HUD</data>
+</node>
+<node id="entity_288">
+  <data key="d0">entity</data>
+  <data key="d4">Friday</data>
+</node>
+<node id="entity_289">
+  <data key="d0">entity</data>
+  <data key="d4">Michael Park</data>
+</node>
+<node id="entity_290">
+  <data key="d0">entity</data>
+  <data key="d4">David Okonkwo</data>
+</node>
+<node id="entity_291">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_292">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_293">
+  <data key="d0">entity</data>
+  <data key="d4">James Morrison</data>
+</node>
+<node id="entity_294">
+  <data key="d0">entity</data>
+  <data key="d4">January 25, 2026</data>
+</node>
+<node id="entity_295">
+  <data key="d0">entity</data>
+  <data key="d4">5:30 PM</data>
+</node>
+<node id="entity_296">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah</data>
+</node>
+<node id="entity_297">
+  <data key="d0">entity</data>
+  <data key="d4">January</data>
+</node>
+<node id="entity_298">
+  <data key="d0">entity</data>
+  <data key="d4">Frame Rate</data>
+</node>
+<node id="entity_299">
+  <data key="d0">entity</data>
+  <data key="d4">58</data>
+</node>
+<node id="entity_300">
+  <data key="d0">entity</data>
+  <data key="d4">72</data>
+</node>
+<node id="entity_301">
+  <data key="d0">entity</data>
+  <data key="d4">4</data>
+</node>
+<node id="entity_302">
+  <data key="d0">entity</data>
+  <data key="d4">Ultra</data>
+</node>
+<node id="entity_303">
+  <data key="d0">entity</data>
+  <data key="d4">31</data>
+</node>
+<node id="entity_304">
+  <data key="d0">entity</data>
+  <data key="d4">44</data>
+</node>
+<node id="entity_305">
+  <data key="d0">entity</data>
+  <data key="d4">34</data>
+</node>
+<node id="entity_306">
+  <data key="d0">entity</data>
+  <data key="d4">52</data>
+</node>
+<node id="entity_307">
+  <data key="d0">entity</data>
+  <data key="d4">8.2</data>
+</node>
+<node id="entity_308">
+  <data key="d0">entity</data>
+  <data key="d4">6.8 GB</data>
+</node>
+<node id="entity_309">
+  <data key="d0">entity</data>
+  <data key="d4">-17%</data>
+</node>
+<node id="entity_310">
+  <data key="d0">entity</data>
+  <data key="d4">7.1</data>
+</node>
+<node id="entity_311">
+  <data key="d0">entity</data>
+  <data key="d4">5.9</data>
+</node>
+<node id="entity_312">
+  <data key="d0">entity</data>
+  <data key="d4">-17%</data>
+</node>
+<node id="entity_313">
+  <data key="d0">entity</data>
+  <data key="d4">NPC</data>
+</node>
+<node id="entity_314">
+  <data key="d0">entity</data>
+  <data key="d4">Load Times</data>
+</node>
+<node id="entity_315">
+  <data key="d0">entity</data>
+  <data key="d4">12.3s</data>
+</node>
+<node id="entity_316">
+  <data key="d0">entity</data>
+  <data key="d4">-29%</data>
+</node>
+<node id="entity_317">
+  <data key="d0">entity</data>
+  <data key="d4">4.2s</data>
+</node>
+<node id="entity_318">
+  <data key="d0">entity</data>
+  <data key="d4">2.1s</data>
+</node>
+<node id="entity_319">
+  <data key="d0">entity</data>
+  <data key="d4">-50%</data>
+</node>
+<node id="entity_320">
+  <data key="d0">entity</data>
+  <data key="d4">3.8s</data>
+</node>
+<node id="entity_321">
+  <data key="d0">entity</data>
+  <data key="d4">1.9s</data>
+</node>
+<node id="entity_322">
+  <data key="d0">entity</data>
+  <data key="d4">-50%</data>
+</node>
+<node id="entity_323">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_324">
+  <data key="d0">entity</data>
+  <data key="d4">GPU</data>
+</node>
+<node id="entity_325">
+  <data key="d0">entity</data>
+  <data key="d4">40%</data>
+</node>
+<node id="entity_326">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_327">
+  <data key="d0">entity</data>
+  <data key="d4">LOD System Overhaul</data>
+</node>
+<node id="entity_328">
+  <data key="d0">entity</data>
+  <data key="d4">5</data>
+</node>
+<node id="entity_329">
+  <data key="d0">entity</data>
+  <data key="d4">LOD</data>
+</node>
+<node id="entity_330">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_331">
+  <data key="d0">entity</data>
+  <data key="d4">4</data>
+</node>
+<node id="entity_332">
+  <data key="d0">entity</data>
+  <data key="d4">AI Inference Optimization
+Moved NPC</data>
+</node>
+<node id="entity_333">
+  <data key="d0">entity</data>
+  <data key="d4">5</data>
+</node>
+<node id="entity_334">
+  <data key="d0">entity</data>
+  <data key="d4">Shader Optimization
+Rewrote</data>
+</node>
+<node id="entity_335">
+  <data key="d0">entity</data>
+  <data key="d4">PBR</data>
+</node>
+<node id="entity_336">
+  <data key="d0">entity</data>
+  <data key="d4">15%</data>
+</node>
+<node id="entity_337">
+  <data key="d0">entity</data>
+  <data key="d4">GPU</data>
+</node>
+<node id="entity_338">
+  <data key="d0">entity</data>
+  <data key="d4">20+</data>
+</node>
+<node id="entity_339">
+  <data key="d0">entity</data>
+  <data key="d4">James</data>
+</node>
+<node id="entity_340">
+  <data key="d0">entity</data>
+  <data key="d4">next
+week</data>
+</node>
+<node id="entity_341">
+  <data key="d0">entity</data>
+  <data key="d4">David Okonkwo</data>
+</node>
+<node id="entity_342">
+  <data key="d0">entity</data>
+  <data key="d4">6</data>
+</node>
+<node id="entity_343">
+  <data key="d0">entity</data>
+  <data key="d4">Design Team Reports
+Visual</data>
+</node>
+<node id="entity_344">
+  <data key="d0">entity</data>
+  <data key="d4">Elena Vasquez</data>
+</node>
+<node id="entity_345">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra Chen</data>
+</node>
+<node id="entity_346">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_347">
+  <data key="d0">entity</data>
+  <data key="d4">Yuki Tanaka</data>
+</node>
+<node id="entity_348">
+  <data key="d0">entity</data>
+  <data key="d4">Michael Park</data>
+</node>
+<node id="entity_349">
+  <data key="d0">entity</data>
+  <data key="d4">November 20, 2025</data>
+</node>
+<node id="entity_350">
+  <data key="d0">entity</data>
+  <data key="d4">10:00 AM
+Subject:</data>
+</node>
+<node id="entity_351">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra</data>
+</node>
+<node id="entity_352">
+  <data key="d0">entity</data>
+  <data key="d4">Art Direction</data>
+</node>
+<node id="entity_353">
+  <data key="d0">entity</data>
+  <data key="d4">three</data>
+</node>
+<node id="entity_354">
+  <data key="d0">entity</data>
+  <data key="d4">Art Style</data>
+</node>
+<node id="entity_355">
+  <data key="d0">entity</data>
+  <data key="d4">Michelangelo</data>
+</node>
+<node id="entity_356">
+  <data key="d0">entity</data>
+  <data key="d4">Color Palette</data>
+</node>
+<node id="entity_357">
+  <data key="d0">entity</data>
+  <data key="d4">1a5276</data>
+</node>
+<node id="entity_358">
+  <data key="d0">entity</data>
+  <data key="d4">c0392b</data>
+</node>
+<node id="entity_359">
+  <data key="d0">entity</data>
+  <data key="d4">5d6d7e</data>
+</node>
+<node id="entity_360">
+  <data key="d0">entity</data>
+  <data key="d4">UI</data>
+</node>
+<node id="entity_361">
+  <data key="d0">entity</data>
+  <data key="d4">Character Design Philosophy</data>
+</node>
+<node id="entity_362">
+  <data key="d0">entity</data>
+  <data key="d4">AI</data>
+</node>
+<node id="entity_363">
+  <data key="d0">entity</data>
+  <data key="d4">Three</data>
+</node>
+<node id="entity_364">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_365">
+  <data key="d0">entity</data>
+  <data key="d4">Synthesis Cities</data>
+</node>
+<node id="entity_366">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_367">
+  <data key="d0">entity</data>
+  <data key="d4">The Organic Wilds - nature</data>
+</node>
+<node id="entity_368">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_369">
+  <data key="d0">entity</data>
+  <data key="d4">Digital Realm</data>
+</node>
+<node id="entity_370">
+  <data key="d0">entity</data>
+  <data key="d4">FOCUS GROUP FEEDBACK</data>
+</node>
+<node id="entity_371">
+  <data key="d0">entity</data>
+  <data key="d4">87%</data>
+</node>
+<node id="entity_372">
+  <data key="d0">entity</data>
+  <data key="d4">92%</data>
+</node>
+<node id="entity_373">
+  <data key="d0">entity</data>
+  <data key="d4">Yuki</data>
+</node>
+<node id="entity_374">
+  <data key="d0">entity</data>
+  <data key="d4">Michael</data>
+</node>
+<node id="entity_375">
+  <data key="d0">entity</data>
+  <data key="d4">UI</data>
+</node>
+<node id="entity_376">
+  <data key="d0">entity</data>
+  <data key="d4">this
+week</data>
+</node>
+<node id="entity_377">
+  <data key="d0">entity</data>
+  <data key="d4">Elena Vasquez</data>
+</node>
+<node id="entity_378">
+  <data key="d0">entity</data>
+  <data key="d4">Michael Park</data>
+</node>
+<node id="entity_379">
+  <data key="d0">entity</data>
+  <data key="d4">Elena Vasquez</data>
+</node>
+<node id="entity_380">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_381">
+  <data key="d0">entity</data>
+  <data key="d4">Yuki Tanaka</data>
+</node>
+<node id="entity_382">
+  <data key="d0">entity</data>
+  <data key="d4">December 8, 2025</data>
+</node>
+<node id="entity_383">
+  <data key="d0">entity</data>
+  <data key="d4">2:45 PM</data>
+</node>
+<node id="entity_384">
+  <data key="d0">entity</data>
+  <data key="d4">24</data>
+</node>
+<node id="entity_385">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_386">
+  <data key="d0">entity</data>
+  <data key="d4">2.3 seconds</data>
+</node>
+<node id="entity_387">
+  <data key="d0">entity</data>
+  <data key="d4">3s</data>
+</node>
+<node id="entity_388">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_389">
+  <data key="d0">entity</data>
+  <data key="d4">4.1 seconds</data>
+</node>
+<node id="entity_390">
+  <data key="d0">entity</data>
+  <data key="d4">4s</data>
+</node>
+<node id="entity_391">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_392">
+  <data key="d0">entity</data>
+  <data key="d4">96%</data>
+</node>
+<node id="entity_393">
+  <data key="d0">entity</data>
+  <data key="d4">88%</data>
+</node>
+<node id="entity_394">
+  <data key="d0">entity</data>
+  <data key="d4">12%</data>
+</node>
+<node id="entity_395">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_396">
+  <data key="d0">entity</data>
+  <data key="d4">Inventory System</data>
+</node>
+<node id="entity_397">
+  <data key="d0">entity</data>
+  <data key="d4">79%</data>
+</node>
+<node id="entity_398">
+  <data key="d0">entity</data>
+  <data key="d4">6</data>
+</node>
+<node id="entity_399">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_400">
+  <data key="d0">entity</data>
+  <data key="d4">4</data>
+</node>
+<node id="entity_401">
+  <data key="d0">entity</data>
+  <data key="d4">Companion Interface
+- Users</data>
+</node>
+<node id="entity_402">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_403">
+  <data key="d0">entity</data>
+  <data key="d4">4</data>
+</node>
+<node id="entity_404">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_405">
+  <data key="d0">entity</data>
+  <data key="d4">HUD</data>
+</node>
+<node id="entity_406">
+  <data key="d0">entity</data>
+  <data key="d4">Friday</data>
+</node>
+<node id="entity_407">
+  <data key="d0">entity</data>
+  <data key="d4">Michael Park</data>
+</node>
+<node id="entity_408">
+  <data key="d0">entity</data>
+  <data key="d4">Yuki Tanaka</data>
+</node>
+<node id="entity_409">
+  <data key="d0">entity</data>
+  <data key="d4">Elena Vasquez</data>
+</node>
+<node id="entity_410">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra Chen</data>
+</node>
+<node id="entity_411">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_412">
+  <data key="d0">entity</data>
+  <data key="d4">January 22, 2026</data>
+</node>
+<node id="entity_413">
+  <data key="d0">entity</data>
+  <data key="d4">4:00 PM</data>
+</node>
+<node id="entity_414">
+  <data key="d0">entity</data>
+  <data key="d4">Chapter 3</data>
+</node>
+<node id="entity_415">
+  <data key="d0">entity</data>
+  <data key="d4">4</data>
+</node>
+<node id="entity_416">
+  <data key="d0">entity</data>
+  <data key="d4">Chapter 3: The Organic Wilds
+- Environment</data>
+</node>
+<node id="entity_417">
+  <data key="d0">entity</data>
+  <data key="d4">847</data>
+</node>
+<node id="entity_418">
+  <data key="d0">entity</data>
+  <data key="d4">23</data>
+</node>
+<node id="entity_419">
+  <data key="d0">entity</data>
+  <data key="d4">12</data>
+</node>
+<node id="entity_420">
+  <data key="d0">entity</data>
+  <data key="d4">156</data>
+</node>
+<node id="entity_421">
+  <data key="d0">entity</data>
+  <data key="d4">Chapter 4:</data>
+</node>
+<node id="entity_422">
+  <data key="d0">entity</data>
+  <data key="d4">623</data>
+</node>
+<node id="entity_423">
+  <data key="d0">entity</data>
+  <data key="d4">The Architect</data>
+</node>
+<node id="entity_424">
+  <data key="d0">entity</data>
+  <data key="d4">47</data>
+</node>
+<node id="entity_425">
+  <data key="d0">entity</data>
+  <data key="d4">4</data>
+</node>
+<node id="entity_426">
+  <data key="d0">entity</data>
+  <data key="d4">12 minutes</data>
+</node>
+<node id="entity_427">
+  <data key="d0">entity</data>
+  <data key="d4">Chapter 5</data>
+</node>
+<node id="entity_428">
+  <data key="d0">entity</data>
+  <data key="d4">40%</data>
+</node>
+<node id="entity_429">
+  <data key="d0">entity</data>
+  <data key="d4">60%</data>
+</node>
+<node id="entity_430">
+  <data key="d0">entity</data>
+  <data key="d4">March 1</data>
+</node>
+<node id="entity_431">
+  <data key="d0">entity</data>
+  <data key="d4">4K</data>
+</node>
+<node id="entity_432">
+  <data key="d0">entity</data>
+  <data key="d4">Polygon</data>
+</node>
+<node id="entity_433">
+  <data key="d0">entity</data>
+  <data key="d4">15%</data>
+</node>
+<node id="entity_434">
+  <data key="d0">entity</data>
+  <data key="d4">8%</data>
+</node>
+<node id="entity_435">
+  <data key="d0">entity</data>
+  <data key="d4">above standard hours</data>
+</node>
+<node id="entity_436">
+  <data key="d0">entity</data>
+  <data key="d4">one</data>
+</node>
+<node id="entity_437">
+  <data key="d0">entity</data>
+  <data key="d4">The Organic Wilds</data>
+</node>
+<node id="entity_438">
+  <data key="d0">entity</data>
+  <data key="d4">Yuki Tanaka</data>
+</node>
+<node id="entity_439">
+  <data key="d0">entity</data>
+  <data key="d4">Elena Vasquez</data>
+</node>
+<node id="entity_440">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra Chen</data>
+</node>
+<node id="entity_441">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_442">
+  <data key="d0">entity</data>
+  <data key="d4">Yuki Tanaka</data>
+</node>
+<node id="entity_443">
+  <data key="d0">entity</data>
+  <data key="d4">Michael Park</data>
+</node>
+<node id="entity_444">
+  <data key="d0">entity</data>
+  <data key="d4">February 5, 2026</data>
+</node>
+<node id="entity_445">
+  <data key="d0">entity</data>
+  <data key="d4">5:15 PM</data>
+</node>
+<node id="entity_446">
+  <data key="d0">entity</data>
+  <data key="d4">Polish</data>
+</node>
+<node id="entity_447">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra</data>
+</node>
+<node id="entity_448">
+  <data key="d0">entity</data>
+  <data key="d4">Lighting Overhaul</data>
+</node>
+<node id="entity_449">
+  <data key="d0">entity</data>
+  <data key="d4">24</data>
+</node>
+<node id="entity_450">
+  <data key="d0">entity</data>
+  <data key="d4">UI Refinement</data>
+</node>
+<node id="entity_451">
+  <data key="d0">entity</data>
+  <data key="d4">UI</data>
+</node>
+<node id="entity_452">
+  <data key="d0">entity</data>
+  <data key="d4">Polish</data>
+</node>
+<node id="entity_453">
+  <data key="d0">entity</data>
+  <data key="d4">200</data>
+</node>
+<node id="entity_454">
+  <data key="d0">entity</data>
+  <data key="d4">- Water</data>
+</node>
+<node id="entity_455">
+  <data key="d0">entity</data>
+  <data key="d4">Alpha Build 0.7</data>
+</node>
+<node id="entity_456">
+  <data key="d0">entity</data>
+  <data key="d4">7.8/10</data>
+</node>
+<node id="entity_457">
+  <data key="d0">entity</data>
+  <data key="d4">3.2</data>
+</node>
+<node id="entity_458">
+  <data key="d0">entity</data>
+  <data key="d4">0.9</data>
+</node>
+<node id="entity_459">
+  <data key="d0">entity</data>
+  <data key="d4">11.7</data>
+</node>
+<node id="entity_460">
+  <data key="d0">entity</data>
+  <data key="d4">Screenshots</data>
+</node>
+<node id="entity_461">
+  <data key="d0">entity</data>
+  <data key="d4">Elena Vasquez</data>
+</node>
+<node id="entity_462">
+  <data key="d0">entity</data>
+  <data key="d4">7</data>
+</node>
+<node id="entity_463">
+  <data key="d0">entity</data>
+  <data key="d4">45</data>
+</node>
+<node id="entity_464">
+  <data key="d0">entity</data>
+  <data key="d4">FPS</data>
+</node>
+<node id="entity_465">
+  <data key="d0">entity</data>
+  <data key="d4">FPS</data>
+</node>
+<node id="entity_466">
+  <data key="d0">entity</data>
+  <data key="d4">60</data>
+</node>
+<node id="entity_467">
+  <data key="d0">entity</data>
+  <data key="d4">4K</data>
+</node>
+<node id="entity_468">
+  <data key="d0">entity</data>
+  <data key="d4">25</data>
+</node>
+<node id="entity_469">
+  <data key="d0">entity</data>
+  <data key="d4">FPS</data>
+</node>
+<node id="entity_470">
+  <data key="d0">entity</data>
+  <data key="d4">44</data>
+</node>
+<node id="entity_471">
+  <data key="d0">entity</data>
+  <data key="d4">FPS</data>
+</node>
+<node id="entity_472">
+  <data key="d0">entity</data>
+  <data key="d4">30</data>
+</node>
+<node id="entity_473">
+  <data key="d0">entity</data>
+  <data key="d4">FPS</data>
+</node>
+<node id="entity_474">
+  <data key="d0">entity</data>
+  <data key="d4">15.2s 8.7s 10s 3</data>
+</node>
+<node id="entity_475">
+  <data key="d0">entity</data>
+  <data key="d4">9.1</data>
+</node>
+<node id="entity_476">
+  <data key="d0">entity</data>
+  <data key="d4">GB 6.8 GB</data>
+</node>
+<node id="entity_477">
+  <data key="d0">entity</data>
+  <data key="d4">89.5%</data>
+</node>
+<node id="entity_478">
+  <data key="d0">entity</data>
+  <data key="d4">94.2%</data>
+</node>
+<node id="entity_479">
+  <data key="d0">entity</data>
+  <data key="d4">95%</data>
+</node>
+<node id="entity_480">
+  <data key="d0">entity</data>
+  <data key="d4">97.2%</data>
+</node>
+<node id="entity_481">
+  <data key="d0">entity</data>
+  <data key="d4">99.1%</data>
+</node>
+<node id="entity_482">
+  <data key="d0">entity</data>
+  <data key="d4">99.9%</data>
+</node>
+<node id="entity_483">
+  <data key="d0">entity</data>
+  <data key="d4">Minor Total
+AI Systems</data>
+</node>
+<node id="entity_484">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_485">
+  <data key="d0">entity</data>
+  <data key="d4">15 25</data>
+</node>
+<node id="entity_486">
+  <data key="d0">entity</data>
+  <data key="d4">22 27</data>
+</node>
+<node id="entity_487">
+  <data key="d0">entity</data>
+  <data key="d4">3 12</data>
+</node>
+<node id="entity_488">
+  <data key="d0">entity</data>
+  <data key="d4">18 33</data>
+</node>
+<node id="entity_489">
+  <data key="d0">entity</data>
+  <data key="d4">UI</data>
+</node>
+<node id="entity_490">
+  <data key="d0">entity</data>
+  <data key="d4">31 35</data>
+</node>
+<node id="entity_491">
+  <data key="d0">entity</data>
+  <data key="d4">8 24</data>
+</node>
+<node id="entity_492">
+  <data key="d0">entity</data>
+  <data key="d4">12 16</data>
+</node>
+<node id="entity_493">
+  <data key="d0">entity</data>
+  <data key="d4">8</data>
+</node>
+<node id="entity_494">
+  <data key="d0">entity</data>
+  <data key="d4">Chris Anderson</data>
+</node>
+<node id="entity_495">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_496">
+  <data key="d0">entity</data>
+  <data key="d4">Elena Vasquez</data>
+</node>
+<node id="entity_497">
+  <data key="d0">entity</data>
+  <data key="d4">January 28, 2026</data>
+</node>
+<node id="entity_498">
+  <data key="d0">entity</data>
+  <data key="d4">9:00 AM</data>
+</node>
+<node id="entity_499">
+  <data key="d0">entity</data>
+  <data key="d4">Alpha Build Playtest Report</data>
+</node>
+<node id="entity_500">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah</data>
+</node>
+<node id="entity_501">
+  <data key="d0">entity</data>
+  <data key="d4">Completed</data>
+</node>
+<node id="entity_502">
+  <data key="d0">entity</data>
+  <data key="d4">40-hour</data>
+</node>
+<node id="entity_503">
+  <data key="d0">entity</data>
+  <data key="d4">Alpha Build 0.7.2</data>
+</node>
+<node id="entity_504">
+  <data key="d0">entity</data>
+  <data key="d4">AI</data>
+</node>
+<node id="entity_505">
+  <data key="d0">entity</data>
+  <data key="d4">AI</data>
+</node>
+<node id="entity_506">
+  <data key="d0">entity</data>
+  <data key="d4">Echo</data>
+</node>
+<node id="entity_507">
+  <data key="d0">entity</data>
+  <data key="d4">three</data>
+</node>
+<node id="entity_508">
+  <data key="d0">entity</data>
+  <data key="d4">Forgotten Archive</data>
+</node>
+<node id="entity_509">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_510">
+  <data key="d0">entity</data>
+  <data key="d4">Chapter 2</data>
+</node>
+<node id="entity_511">
+  <data key="d0">entity</data>
+  <data key="d4">Elder Kai</data>
+</node>
+<node id="entity_512">
+  <data key="d0">entity</data>
+  <data key="d4">Shrine</data>
+</node>
+<node id="entity_513">
+  <data key="d0">entity</data>
+  <data key="d4">Digital Realm</data>
+</node>
+<node id="entity_514">
+  <data key="d0">entity</data>
+  <data key="d4">FPS</data>
+</node>
+<node id="entity_515">
+  <data key="d0">entity</data>
+  <data key="d4">Synthesis City</data>
+</node>
+<node id="entity_516">
+  <data key="d0">entity</data>
+  <data key="d4">NPC</data>
+</node>
+<node id="entity_517">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_518">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_519">
+  <data key="d0">entity</data>
+  <data key="d4">AI</data>
+</node>
+<node id="entity_520">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_521">
+  <data key="d0">entity</data>
+  <data key="d4">AI</data>
+</node>
+<node id="entity_522">
+  <data key="d0">entity</data>
+  <data key="d4">Chris Anderson</data>
+</node>
+<node id="entity_523">
+  <data key="d0">entity</data>
+  <data key="d4">Lisa Martinez</data>
+</node>
+<node id="entity_524">
+  <data key="d0">entity</data>
+  <data key="d4">Elena Vasquez</data>
+</node>
+<node id="entity_525">
+  <data key="d0">entity</data>
+  <data key="d4">Michael Park</data>
+</node>
+<node id="entity_526">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_527">
+  <data key="d0">entity</data>
+  <data key="d4">January 30, 2026</data>
+</node>
+<node id="entity_528">
+  <data key="d0">entity</data>
+  <data key="d4">11:15 AM</data>
+</node>
+<node id="entity_529">
+  <data key="d0">entity</data>
+  <data key="d4">Alpha</data>
+</node>
+<node id="entity_530">
+  <data key="d0">entity</data>
+  <data key="d4">200%</data>
+</node>
+<node id="entity_531">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_532">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_533">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_534">
+  <data key="d0">entity</data>
+  <data key="d4">One</data>
+</node>
+<node id="entity_535">
+  <data key="d0">entity</data>
+  <data key="d4">Cognitive Accessibility</data>
+</node>
+<node id="entity_536">
+  <data key="d0">entity</data>
+  <data key="d4">7.2/10</data>
+</node>
+<node id="entity_537">
+  <data key="d0">entity</data>
+  <data key="d4">Lisa Martinez</data>
+</node>
+<node id="entity_538">
+  <data key="d0">entity</data>
+  <data key="d4">Robert Kim</data>
+</node>
+<node id="entity_539">
+  <data key="d0">entity</data>
+  <data key="d4">David Okonkwo</data>
+</node>
+<node id="entity_540">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_541">
+  <data key="d0">entity</data>
+  <data key="d4">James Morrison</data>
+</node>
+<node id="entity_542">
+  <data key="d0">entity</data>
+  <data key="d4">February 1, 2026</data>
+</node>
+<node id="entity_543">
+  <data key="d0">entity</data>
+  <data key="d4">3:30 PM</data>
+</node>
+<node id="entity_544">
+  <data key="d0">entity</data>
+  <data key="d4">David</data>
+</node>
+<node id="entity_545">
+  <data key="d0">entity</data>
+  <data key="d4">US</data>
+</node>
+<node id="entity_546">
+  <data key="d0">entity</data>
+  <data key="d4">72 hours</data>
+</node>
+<node id="entity_547">
+  <data key="d0">entity</data>
+  <data key="d4">100-10,000</data>
+</node>
+<node id="entity_548">
+  <data key="d0">entity</data>
+  <data key="d4">0% - 5%</data>
+</node>
+<node id="entity_549">
+  <data key="d0">entity</data>
+  <data key="d4">99.97%</data>
+</node>
+<node id="entity_550">
+  <data key="d0">entity</data>
+  <data key="d4">12ms</data>
+</node>
+<node id="entity_551">
+  <data key="d0">entity</data>
+  <data key="d4">99.94%</data>
+</node>
+<node id="entity_552">
+  <data key="d0">entity</data>
+  <data key="d4">28ms</data>
+</node>
+<node id="entity_553">
+  <data key="d0">entity</data>
+  <data key="d4">5,000</data>
+</node>
+<node id="entity_554">
+  <data key="d0">entity</data>
+  <data key="d4">99.12%</data>
+</node>
+<node id="entity_555">
+  <data key="d0">entity</data>
+  <data key="d4">67ms</data>
+</node>
+<node id="entity_556">
+  <data key="d0">entity</data>
+  <data key="d4">10,000</data>
+</node>
+<node id="entity_557">
+  <data key="d0">entity</data>
+  <data key="d4">97.23%</data>
+</node>
+<node id="entity_558">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_559">
+  <data key="d0">entity</data>
+  <data key="d4">Memory Leak (Critical</data>
+</node>
+<node id="entity_560">
+  <data key="d0">entity</data>
+  <data key="d4">24 hours</data>
+</node>
+<node id="entity_561">
+  <data key="d0">entity</data>
+  <data key="d4">NPC</data>
+</node>
+<node id="entity_562">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_563">
+  <data key="d0">entity</data>
+  <data key="d4">every ~30 seconds</data>
+</node>
+<node id="entity_564">
+  <data key="d0">entity</data>
+  <data key="d4">approximately 8%</data>
+</node>
+<node id="entity_565">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_566">
+  <data key="d0">entity</data>
+  <data key="d4">Database Bottleneck</data>
+</node>
+<node id="entity_567">
+  <data key="d0">entity</data>
+  <data key="d4">7,500</data>
+</node>
+<node id="entity_568">
+  <data key="d0">entity</data>
+  <data key="d4">10+ second</data>
+</node>
+<node id="entity_569">
+  <data key="d0">entity</data>
+  <data key="d4">4</data>
+</node>
+<node id="entity_570">
+  <data key="d0">entity</data>
+  <data key="d4">Chat System</data>
+</node>
+<node id="entity_571">
+  <data key="d0">entity</data>
+  <data key="d4">PgBouncer</data>
+</node>
+<node id="entity_572">
+  <data key="d0">entity</data>
+  <data key="d4">NPC</data>
+</node>
+<node id="entity_573">
+  <data key="d0">entity</data>
+  <data key="d4">50,000</data>
+</node>
+<node id="entity_574">
+  <data key="d0">entity</data>
+  <data key="d4">Robert Kim</data>
+</node>
+<node id="entity_575">
+  <data key="d0">entity</data>
+  <data key="d4">9</data>
+</node>
+<node id="entity_576">
+  <data key="d0">entity</data>
+  <data key="d4">Infrastructure &amp; Scalability
+Server</data>
+</node>
+<node id="entity_577">
+  <data key="d0">entity</data>
+  <data key="d4">James Morrison</data>
+</node>
+<node id="entity_578">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_579">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_580">
+  <data key="d0">entity</data>
+  <data key="d4">David Okonkwo</data>
+</node>
+<node id="entity_581">
+  <data key="d0">entity</data>
+  <data key="d4">February 4, 2026</data>
+</node>
+<node id="entity_582">
+  <data key="d0">entity</data>
+  <data key="d4">9:30 AM
+Subject: Server Infrastructure - Post-Stress Test Action Plan
+Marcus</data>
+</node>
+<node id="entity_583">
+  <data key="d0">entity</data>
+  <data key="d4">Following Robert's</data>
+</node>
+<node id="entity_584">
+  <data key="d0">entity</data>
+  <data key="d4">This Week</data>
+</node>
+<node id="entity_585">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_586">
+  <data key="d0">entity</data>
+  <data key="d4">NPC</data>
+</node>
+<node id="entity_587">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_588">
+  <data key="d0">entity</data>
+  <data key="d4">3x</data>
+</node>
+<node id="entity_589">
+  <data key="d0">entity</data>
+  <data key="d4">today</data>
+</node>
+<node id="entity_590">
+  <data key="d0">entity</data>
+  <data key="d4">Next 2 Weeks</data>
+</node>
+<node id="entity_591">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_592">
+  <data key="d0">entity</data>
+  <data key="d4">250ms</data>
+</node>
+<node id="entity_593">
+  <data key="d0">entity</data>
+  <data key="d4">4</data>
+</node>
+<node id="entity_594">
+  <data key="d0">entity</data>
+  <data key="d4">Database Sharding</data>
+</node>
+<node id="entity_595">
+  <data key="d0">entity</data>
+  <data key="d4">PostgreSQL</data>
+</node>
+<node id="entity_596">
+  <data key="d0">entity</data>
+  <data key="d4">5</data>
+</node>
+<node id="entity_597">
+  <data key="d0">entity</data>
+  <data key="d4">Global Infrastructure
+- US-East</data>
+</node>
+<node id="entity_598">
+  <data key="d0">entity</data>
+  <data key="d4">US</data>
+</node>
+<node id="entity_599">
+  <data key="d0">entity</data>
+  <data key="d4">6</data>
+</node>
+<node id="entity_600">
+  <data key="d0">entity</data>
+  <data key="d4">15-minute</data>
+</node>
+<node id="entity_601">
+  <data key="d0">entity</data>
+  <data key="d4">RPO</data>
+</node>
+<node id="entity_602">
+  <data key="d0">entity</data>
+  <data key="d4">1-hour</data>
+</node>
+<node id="entity_603">
+  <data key="d0">entity</data>
+  <data key="d4">RTO</data>
+</node>
+<node id="entity_604">
+  <data key="d0">entity</data>
+  <data key="d4">monthly</data>
+</node>
+<node id="entity_605">
+  <data key="d0">entity</data>
+  <data key="d4">47,000</data>
+</node>
+<node id="entity_606">
+  <data key="d0">entity</data>
+  <data key="d4">68,000</data>
+</node>
+<node id="entity_607">
+  <data key="d0">entity</data>
+  <data key="d4">21,000</data>
+</node>
+<node id="entity_608">
+  <data key="d0">entity</data>
+  <data key="d4">One</data>
+</node>
+<node id="entity_609">
+  <data key="d0">entity</data>
+  <data key="d4">35,000</data>
+</node>
+<node id="entity_610">
+  <data key="d0">entity</data>
+  <data key="d4">28,000</data>
+</node>
+<node id="entity_611">
+  <data key="d0">entity</data>
+  <data key="d4">2 months</data>
+</node>
+<node id="entity_612">
+  <data key="d0">entity</data>
+  <data key="d4">100,000</data>
+</node>
+<node id="entity_613">
+  <data key="d0">entity</data>
+  <data key="d4">99.9%</data>
+</node>
+<node id="entity_614">
+  <data key="d0">entity</data>
+  <data key="d4">James Morrison</data>
+</node>
+<node id="entity_615">
+  <data key="d0">entity</data>
+  <data key="d4">US</data>
+</node>
+<node id="entity_616">
+  <data key="d0">entity</data>
+  <data key="d4">28ms Active</data>
+</node>
+<node id="entity_617">
+  <data key="d0">entity</data>
+  <data key="d4">US</data>
+</node>
+<node id="entity_618">
+  <data key="d0">entity</data>
+  <data key="d4">35,000</data>
+</node>
+<node id="entity_619">
+  <data key="d0">entity</data>
+  <data key="d4">40,000</data>
+</node>
+<node id="entity_620">
+  <data key="d0">entity</data>
+  <data key="d4">45ms</data>
+</node>
+<node id="entity_621">
+  <data key="d0">entity</data>
+  <data key="d4">Asia-Pacific</data>
+</node>
+<node id="entity_622">
+  <data key="d0">entity</data>
+  <data key="d4">30,000</data>
+</node>
+<node id="entity_623">
+  <data key="d0">entity</data>
+  <data key="d4">67ms</data>
+</node>
+<node id="entity_624">
+  <data key="d0">entity</data>
+  <data key="d4">10</data>
+</node>
+<node id="entity_625">
+  <data key="d0">entity</data>
+  <data key="d4">Charts &amp; Data
+Team Resource Allocation</data>
+</node>
+<node id="entity_626">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra Chen</data>
+</node>
+<node id="entity_627">
+  <data key="d0">entity</data>
+  <data key="d4">CTO</data>
+</node>
+<node id="entity_628">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_629">
+  <data key="d0">entity</data>
+  <data key="d4">Jonathan Wei</data>
+</node>
+<node id="entity_630">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_631">
+  <data key="d0">entity</data>
+  <data key="d4">David Okonkwo</data>
+</node>
+<node id="entity_632">
+  <data key="d0">entity</data>
+  <data key="d4">James Morrison james.m@neuralforge.ai</data>
+</node>
+<node id="entity_633">
+  <data key="d0">entity</data>
+  <data key="d4">Michael Park michael.p@neuralforge.ai</data>
+</node>
+<node id="entity_634">
+  <data key="d0">entity</data>
+  <data key="d4">Yuki Tanaka</data>
+</node>
+<node id="entity_635">
+  <data key="d0">entity</data>
+  <data key="d4">yuki.t@neuralforge.ai</data>
+</node>
+<node id="entity_636">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_637">
+  <data key="d0">entity</data>
+  <data key="d4">Chris Anderson chris.a@betatest.io</data>
+</node>
+<node id="entity_638">
+  <data key="d0">entity</data>
+  <data key="d4">Lisa Martinez</data>
+</node>
+<node id="entity_639">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_640">
+  <data key="d0">entity</data>
+  <data key="d4">Robert Kim</data>
+</node>
+<node id="entity_641">
+  <data key="d0">entity</data>
+  <data key="d4">Additional Executive Correspondence</data>
+</node>
+<node id="entity_642">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra Chen</data>
+</node>
+<node id="entity_643">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_644">
+  <data key="d0">entity</data>
+  <data key="d4">Jonathan Wei</data>
+</node>
+<node id="entity_645">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_646">
+  <data key="d0">entity</data>
+  <data key="d4">Elena Vasquez</data>
+</node>
+<node id="entity_647">
+  <data key="d0">entity</data>
+  <data key="d4">February 3, 2026</data>
+</node>
+<node id="entity_648">
+  <data key="d0">entity</data>
+  <data key="d4">8:00 AM</data>
+</node>
+<node id="entity_649">
+  <data key="d0">entity</data>
+  <data key="d4">Alpha</data>
+</node>
+<node id="entity_650">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_651">
+  <data key="d0">entity</data>
+  <data key="d4">AI</data>
+</node>
+<node id="entity_652">
+  <data key="d0">entity</data>
+  <data key="d4">NPC</data>
+</node>
+<node id="entity_653">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_654">
+  <data key="d0">entity</data>
+  <data key="d4">Elena</data>
+</node>
+<node id="entity_655">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_656">
+  <data key="d0">entity</data>
+  <data key="d4">Alpha</data>
+</node>
+<node id="entity_657">
+  <data key="d0">entity</data>
+  <data key="d4">3 hours</data>
+</node>
+<node id="entity_658">
+  <data key="d0">entity</data>
+  <data key="d4">30 minutes</data>
+</node>
+<node id="entity_659">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_660">
+  <data key="d0">entity</data>
+  <data key="d4">30</data>
+</node>
+<node id="entity_661">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_662">
+  <data key="d0">entity</data>
+  <data key="d4">Multiplayer Stability</data>
+</node>
+<node id="entity_663">
+  <data key="d0">entity</data>
+  <data key="d4">Robert</data>
+</node>
+<node id="entity_664">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_665">
+  <data key="d0">entity</data>
+  <data key="d4">Lisa</data>
+</node>
+<node id="entity_666">
+  <data key="d0">entity</data>
+  <data key="d4">2026</data>
+</node>
+<node id="entity_667">
+  <data key="d0">entity</data>
+  <data key="d4">4</data>
+</node>
+<node id="entity_668">
+  <data key="d0">entity</data>
+  <data key="d4">Jonathan</data>
+</node>
+<node id="entity_669">
+  <data key="d0">entity</data>
+  <data key="d4">an additional $2.1M</data>
+</node>
+<node id="entity_670">
+  <data key="d0">entity</data>
+  <data key="d4">DECISIONS</data>
+</node>
+<node id="entity_671">
+  <data key="d0">entity</data>
+  <data key="d4">1</data>
+</node>
+<node id="entity_672">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_673">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_674">
+  <data key="d0">entity</data>
+  <data key="d4">Thursday</data>
+</node>
+<node id="entity_675">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra Chen
+CEO</data>
+</node>
+<node id="entity_676">
+  <data key="d0">entity</data>
+  <data key="d4">NeuralForge AI Studios</data>
+</node>
+<node id="entity_677">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_678">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra Chen</data>
+</node>
+<node id="entity_679">
+  <data key="d0">entity</data>
+  <data key="d4">Jonathan Wei</data>
+</node>
+<node id="entity_680">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah Kowalski</data>
+</node>
+<node id="entity_681">
+  <data key="d0">entity</data>
+  <data key="d4">February 3, 2026</data>
+</node>
+<node id="entity_682">
+  <data key="d0">entity</data>
+  <data key="d4">10:45 AM
+Subject:</data>
+</node>
+<node id="entity_683">
+  <data key="d0">entity</data>
+  <data key="d4">Sarah</data>
+</node>
+<node id="entity_684">
+  <data key="d0">entity</data>
+  <data key="d4">Jonathan</data>
+</node>
+<node id="entity_685">
+  <data key="d0">entity</data>
+  <data key="d4">David</data>
+</node>
+<node id="entity_686">
+  <data key="d0">entity</data>
+  <data key="d4">3</data>
+</node>
+<node id="entity_687">
+  <data key="d0">entity</data>
+  <data key="d4">4 weeks</data>
+</node>
+<node id="entity_688">
+  <data key="d0">entity</data>
+  <data key="d4">LOD</data>
+</node>
+<node id="entity_689">
+  <data key="d0">entity</data>
+  <data key="d4">Synthesis City</data>
+</node>
+<node id="entity_690">
+  <data key="d0">entity</data>
+  <data key="d4">NPC</data>
+</node>
+<node id="entity_691">
+  <data key="d0">entity</data>
+  <data key="d4">20%</data>
+</node>
+<node id="entity_692">
+  <data key="d0">entity</data>
+  <data key="d4">MULTIPLAYER</data>
+</node>
+<node id="entity_693">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_694">
+  <data key="d0">entity</data>
+  <data key="d4">340,000</data>
+</node>
+<node id="entity_695">
+  <data key="d0">entity</data>
+  <data key="d4">120,000</data>
+</node>
+<node id="entity_696">
+  <data key="d0">entity</data>
+  <data key="d4">60 days</data>
+</node>
+<node id="entity_697">
+  <data key="d0">entity</data>
+  <data key="d4">45,000</data>
+</node>
+<node id="entity_698">
+  <data key="d0">entity</data>
+  <data key="d4">$2.1M</data>
+</node>
+<node id="entity_699">
+  <data key="d0">entity</data>
+  <data key="d4">680,000</data>
+</node>
+<node id="entity_700">
+  <data key="d0">entity</data>
+  <data key="d4">QA</data>
+</node>
+<node id="entity_701">
+  <data key="d0">entity</data>
+  <data key="d4">420,000</data>
+</node>
+<node id="entity_702">
+  <data key="d0">entity</data>
+  <data key="d4">210,000</data>
+</node>
+<node id="entity_703">
+  <data key="d0">entity</data>
+  <data key="d4">790,000</data>
+</node>
+<node id="entity_704">
+  <data key="d0">entity</data>
+  <data key="d4">Jonathan</data>
+</node>
+<node id="entity_705">
+  <data key="d0">entity</data>
+  <data key="d4">Thursday</data>
+</node>
+<node id="entity_706">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_707">
+  <data key="d0">entity</data>
+  <data key="d4">NeuralForge AI Studios</data>
+</node>
+<node id="entity_708">
+  <data key="d0">entity</data>
+  <data key="d4">Jonathan Wei</data>
+</node>
+<node id="entity_709">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra Chen</data>
+</node>
+<node id="entity_710">
+  <data key="d0">entity</data>
+  <data key="d4">Marcus Rivera</data>
+</node>
+<node id="entity_711">
+  <data key="d0">entity</data>
+  <data key="d4">February 5, 2026</data>
+</node>
+<node id="entity_712">
+  <data key="d0">entity</data>
+  <data key="d4">2:00 PM</data>
+</node>
+<node id="entity_713">
+  <data key="d0">entity</data>
+  <data key="d4">Alexandra</data>
+</node>
+<node id="entity_714">
+  <data key="d0">entity</data>
+  <data key="d4">Thursday</data>
+</node>
+<node id="entity_715">
+  <data key="d0">entity</data>
+  <data key="d4">24,500,000</data>
+</node>
+<node id="entity_716">
+  <data key="d0">entity</data>
+  <data key="d4">1,850,000</data>
+</node>
+<node id="entity_717">
+  <data key="d0">entity</data>
+  <data key="d4">New Total Budget</data>
+</node>
+<node id="entity_718">
+  <data key="d0">entity</data>
+  <data key="d4">26,350,000</data>
+</node>
+<node id="entity_719">
+  <data key="d0">entity</data>
+  <data key="d4">Performance &amp; Multiplayer</data>
+</node>
+<node id="entity_720">
+  <data key="d0">entity</data>
+  <data key="d4">720,000</data>
+</node>
+<node id="entity_721">
+  <data key="d0">entity</data>
+  <data key="d4">2</data>
+</node>
+<node id="entity_722">
+  <data key="d0">entity</data>
+  <data key="d4">3 months</data>
+</node>
+<node id="entity_723">
+  <data key="d0">entity</data>
+  <data key="d4">Accessibility Implementation</data>
+</node>
+<node id="entity_724">
+  <data key="d0">entity</data>
+  <data key="d4">195,000</data>
+</node>
+<node id="entity_725">
+  <data key="d0">entity</data>
+  <data key="d4">385,000</data>
+</node>
+<node id="entity_726">
+  <data key="d0">entity</data>
+  <data key="d4">3 weeks</data>
+</node>
+<node id="entity_727">
+  <data key="d0">entity</data>
+  <data key="d4">150,000</data>
+</node>
+<node id="entity_728">
+  <data key="d0">entity</data>
+  <data key="d4">700,000</data>
+</node>
+<node id="entity_729">
+  <data key="d0">entity</data>
+  <data key="d4">February:</data>
+</node>
+<node id="entity_730">
+  <data key="d0">entity</data>
+  <data key="d4">+$620,000</data>
+</node>
+<node id="entity_731">
+  <data key="d0">entity</data>
+  <data key="d4">March:</data>
+</node>
+<node id="entity_732">
+  <data key="d0">entity</data>
+  <data key="d4">+$540,000</data>
+</node>
+<node id="entity_733">
+  <data key="d0">entity</data>
+  <data key="d4">April:</data>
+</node>
+<node id="entity_734">
+  <data key="d0">entity</data>
+  <data key="d4">380,000</data>
+</node>
+<node id="entity_735">
+  <data key="d0">entity</data>
+  <data key="d4">QA</data>
+</node>
+<node id="entity_736">
+  <data key="d0">entity</data>
+  <data key="d4">May:</data>
+</node>
+<node id="entity_737">
+  <data key="d0">entity</data>
+  <data key="d4">+$310,000</data>
+</node>
+<node id="entity_738">
+  <data key="d0">entity</data>
+  <data key="d4">polish</data>
+</node>
+<node id="entity_739">
+  <data key="d0">entity</data>
+  <data key="d4">$42M</data>
+</node>
+<node id="entity_740">
+  <data key="d0">entity</data>
+  <data key="d4">170%</data>
+</node>
+<node id="entity_741">
+  <data key="d0">entity</data>
+  <data key="d4">$58M</data>
+</node>
+<node id="entity_742">
+  <data key="d0">entity</data>
+  <data key="d4">220%</data>
+</node>
+<node id="entity_743">
+  <data key="d0">entity</data>
+  <data key="d4">$78M</data>
+</node>
+<node id="entity_744">
+  <data key="d0">entity</data>
+  <data key="d4">296%</data>
+</node>
+<node id="entity_745">
+  <data key="d0">entity</data>
+  <data key="d4">Jonathan Wei
+CFO</data>
+</node>
+<node id="entity_746">
+  <data key="d0">entity</data>
+  <data key="d4">NeuralForge AI Studios</data>
+</node>
+<node id="entity_747">
+  <data key="d0">entity</data>
+  <data key="d4">2026</data>
+</node>
+<node id="entity_748">
+  <data key="d0">entity</data>
+  <data key="d4">NeuralForge AI Studios</data>
+</node>
+<edge source="doc" target="section_0">
+  <data key="d5">HAS_SECTION</data>
+</edge>
+<edge source="section_0" target="para_0">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_1">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_2">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_3">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_4">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_5">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_6">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_7">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_8">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_9">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_10">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_11">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_12">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_13">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_14">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_15">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_16">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_17">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_18">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_19">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_20">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_21">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_22">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_23">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_24">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_25">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_26">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_27">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_28">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_29">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_30">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_31">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_32">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_33">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_34">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_35">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_36">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="section_0" target="para_37">
+  <data key="d5">HAS_PARAGRAPH</data>
+</edge>
+<edge source="para_0" target="entity_0">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_0" target="entity_1">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_0" target="entity_2">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_0" target="entity_3">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_0" target="entity_4">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_5">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_6">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_7">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_8">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_9">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_10">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_11">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_12">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_13">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_14">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_15">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_16">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_17">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_18">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_19">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_20">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_21">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_22">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_1" target="entity_23">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_2" target="entity_24">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_2" target="entity_25">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_2" target="entity_26">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_2" target="entity_27">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_2" target="entity_28">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_2" target="entity_29">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_2" target="entity_30">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_2" target="entity_31">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_2" target="entity_32">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_2" target="entity_33">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_2" target="entity_34">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_2" target="entity_35">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_2" target="entity_36">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_2" target="entity_37">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_2" target="entity_38">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_3" target="entity_39">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_3" target="entity_40">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_3" target="entity_41">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_3" target="entity_42">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_3" target="entity_43">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_3" target="entity_44">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_3" target="entity_45">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_3" target="entity_46">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_3" target="entity_47">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_48">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_49">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_50">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_51">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_52">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_53">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_54">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_55">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_56">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_57">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_58">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_59">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_60">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_61">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_62">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_63">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_64">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_4" target="entity_65">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_66">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_67">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_68">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_69">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_70">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_71">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_72">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_73">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_74">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_75">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_76">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_77">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_78">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_79">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_80">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_81">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_82">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_83">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_84">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_85">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_86">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_87">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_88">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_89">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_90">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_5" target="entity_91">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_92">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_93">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_94">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_95">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_96">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_97">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_98">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_99">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_100">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_101">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_102">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_103">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_104">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_105">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_106">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_107">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_108">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_109">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_110">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_111">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_112">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_113">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_114">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_115">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_116">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_117">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_118">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_119">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_120">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_121">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_6" target="entity_122">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_123">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_124">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_125">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_126">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_127">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_128">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_129">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_130">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_131">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_132">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_133">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_134">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_135">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_136">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_137">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_138">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_139">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_140">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_141">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_142">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_143">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_144">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_145">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_146">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_147">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_148">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_149">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_150">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_151">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_152">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_153">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_154">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_155">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_156">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_157">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_158">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_159">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_160">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_161">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_162">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_163">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_7" target="entity_164">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_8" target="entity_165">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_8" target="entity_166">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_8" target="entity_167">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_8" target="entity_168">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_8" target="entity_169">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_8" target="entity_170">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_8" target="entity_171">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_8" target="entity_172">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_8" target="entity_173">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_8" target="entity_174">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_175">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_176">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_177">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_178">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_179">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_180">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_181">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_182">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_183">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_184">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_185">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_186">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_187">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_188">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_189">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_190">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_191">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_192">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_193">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_194">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_195">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_196">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_197">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_198">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_199">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_200">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_201">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_202">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_203">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_204">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_9" target="entity_205">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_206">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_207">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_208">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_209">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_210">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_211">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_212">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_213">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_214">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_215">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_216">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_217">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_218">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_219">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_220">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_10" target="entity_221">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_222">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_223">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_224">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_225">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_226">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_227">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_228">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_229">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_230">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_231">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_232">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_233">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_234">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_235">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_236">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_237">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_238">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_239">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_240">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_241">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_242">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_11" target="entity_243">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_244">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_245">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_246">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_247">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_248">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_249">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_250">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_251">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_252">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_253">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_254">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_255">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_256">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_257">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_258">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_259">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_260">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_261">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_262">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_263">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_264">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_265">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_266">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_267">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_268">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_269">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_270">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_271">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_12" target="entity_272">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_273">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_274">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_275">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_276">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_277">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_278">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_279">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_280">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_281">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_282">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_283">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_284">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_285">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_286">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_287">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_288">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_289">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_290">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_291">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_292">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_293">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_294">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_295">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_13" target="entity_296">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_297">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_298">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_299">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_300">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_301">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_302">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_303">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_304">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_305">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_306">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_307">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_308">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_309">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_310">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_311">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_312">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_313">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_314">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_315">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_316">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_317">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_318">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_319">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_320">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_321">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_322">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_323">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_324">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_325">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_326">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_327">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_328">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_329">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_330">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_331">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_332">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_333">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_334">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_335">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_336">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_337">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_338">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_339">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_14" target="entity_340">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_15" target="entity_341">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_342">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_343">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_344">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_345">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_346">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_347">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_348">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_349">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_350">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_351">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_352">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_353">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_354">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_355">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_356">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_357">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_358">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_359">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_360">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_361">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_362">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_363">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_364">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_365">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_366">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_367">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_368">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_16" target="entity_369">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_370">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_371">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_372">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_373">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_374">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_375">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_376">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_377">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_378">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_379">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_380">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_381">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_382">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_383">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_384">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_385">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_386">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_387">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_388">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_389">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_390">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_391">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_392">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_393">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_394">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_395">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_396">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_397">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_398">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_17" target="entity_399">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_400">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_401">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_402">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_403">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_404">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_405">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_406">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_407">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_408">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_409">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_410">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_411">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_412">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_413">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_414">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_18" target="entity_415">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_416">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_417">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_418">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_419">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_420">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_421">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_422">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_423">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_424">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_425">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_426">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_427">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_428">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_429">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_430">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_431">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_432">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_433">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_434">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_435">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_436">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_437">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_438">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_439">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_440">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_441">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_442">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_443">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_444">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_445">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_19" target="entity_446">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_20" target="entity_447">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_20" target="entity_448">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_20" target="entity_449">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_20" target="entity_450">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_20" target="entity_451">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_20" target="entity_452">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_20" target="entity_453">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_20" target="entity_454">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_20" target="entity_455">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_20" target="entity_456">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_20" target="entity_457">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_20" target="entity_458">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_20" target="entity_459">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_20" target="entity_460">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_21" target="entity_461">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_462">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_463">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_464">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_465">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_466">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_467">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_468">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_469">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_470">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_471">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_472">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_473">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_474">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_475">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_476">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_477">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_478">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_479">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_480">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_481">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_22" target="entity_482">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_23" target="entity_483">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_23" target="entity_484">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_23" target="entity_485">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_23" target="entity_486">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_23" target="entity_487">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_23" target="entity_488">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_23" target="entity_489">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_23" target="entity_490">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_23" target="entity_491">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_23" target="entity_492">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_493">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_494">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_495">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_496">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_497">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_498">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_499">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_500">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_501">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_502">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_503">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_504">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_505">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_506">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_507">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_508">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_509">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_510">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_511">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_512">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_513">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_514">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_515">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_24" target="entity_516">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_517">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_518">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_519">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_520">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_521">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_522">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_523">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_524">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_525">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_526">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_527">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_528">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_529">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_530">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_531">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_25" target="entity_532">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_26" target="entity_533">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_26" target="entity_534">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_26" target="entity_535">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_26" target="entity_536">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_26" target="entity_537">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_26" target="entity_538">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_26" target="entity_539">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_26" target="entity_540">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_26" target="entity_541">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_26" target="entity_542">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_26" target="entity_543">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_26" target="entity_544">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_26" target="entity_545">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_546">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_547">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_548">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_549">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_550">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_551">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_552">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_553">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_554">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_555">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_556">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_557">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_558">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_559">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_560">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_561">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_562">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_563">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_564">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_565">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_566">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_567">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_568">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_569">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_570">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_571">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_27" target="entity_572">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_28" target="entity_573">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_28" target="entity_574">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_575">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_576">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_577">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_578">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_579">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_580">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_581">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_582">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_583">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_584">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_585">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_586">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_587">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_588">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_589">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_590">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_591">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_592">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_593">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_594">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_29" target="entity_595">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_596">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_597">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_598">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_599">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_600">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_601">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_602">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_603">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_604">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_605">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_606">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_607">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_608">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_609">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_610">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_611">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_612">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_613">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_614">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_615">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_616">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_617">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_618">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_619">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_620">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_621">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_622">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_30" target="entity_623">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_31" target="entity_624">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_31" target="entity_625">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_31" target="entity_626">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_31" target="entity_627">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_31" target="entity_628">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_31" target="entity_629">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_31" target="entity_630">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_31" target="entity_631">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_31" target="entity_632">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_31" target="entity_633">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_31" target="entity_634">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_31" target="entity_635">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_32" target="entity_636">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_32" target="entity_637">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_32" target="entity_638">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_32" target="entity_639">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_32" target="entity_640">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_641">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_642">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_643">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_644">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_645">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_646">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_647">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_648">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_649">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_650">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_651">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_652">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_653">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_654">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_655">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_656">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_657">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_658">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_659">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_660">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_661">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_662">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_663">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_664">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_665">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_666">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_667">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_668">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_33" target="entity_669">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_670">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_671">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_672">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_673">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_674">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_675">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_676">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_677">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_678">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_679">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_680">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_681">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_682">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_683">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_684">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_685">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_686">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_687">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_688">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_689">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_690">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_691">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_692">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_693">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_694">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_34" target="entity_695">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_35" target="entity_696">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_35" target="entity_697">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_35" target="entity_698">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_35" target="entity_699">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_35" target="entity_700">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_35" target="entity_701">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_35" target="entity_702">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_35" target="entity_703">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_35" target="entity_704">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_35" target="entity_705">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_35" target="entity_706">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_35" target="entity_707">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_708">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_709">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_710">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_711">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_712">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_713">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_714">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_715">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_716">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_717">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_718">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_719">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_720">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_721">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_722">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_723">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_724">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_725">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_726">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_727">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_36" target="entity_728">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_729">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_730">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_731">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_732">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_733">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_734">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_735">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_736">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_737">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_738">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_739">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_740">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_741">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_742">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_743">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_744">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_745">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_746">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_747">
+  <data key="d5">MENTIONS</data>
+</edge>
+<edge source="para_37" target="entity_748">
+  <data key="d5">MENTIONS</data>
+</edge>
+</graph></graphml>

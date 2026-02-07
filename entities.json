@@ -1,0 +1,4499 @@
+{
+  "file_name": "ai_legends_email_report.pdf",
+  "entities": [
+    {
+      "text": "the Digital Frontier\nProject Code:",
+      "type": "ORG",
+      "paragraph_id": "para_0",
+      "page": 1
+    },
+    {
+      "text": "September 2025 - February 2026",
+      "type": "DATE",
+      "paragraph_id": "para_0",
+      "page": 1
+    },
+    {
+      "text": "Project Management Office\nReport Date",
+      "type": "ORG",
+      "paragraph_id": "para_0",
+      "page": 1
+    },
+    {
+      "text": "February 6, 2026",
+      "type": "DATE",
+      "paragraph_id": "para_0",
+      "page": 1
+    },
+    {
+      "text": "1.0",
+      "type": "CARDINAL",
+      "paragraph_id": "para_0",
+      "page": 1
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "Project Timeline & Milestones 4",
+      "type": "ORG",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "4",
+      "type": "CARDINAL",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "6",
+      "type": "CARDINAL",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "5",
+      "type": "CARDINAL",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "Technical Team",
+      "type": "ORG",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "8",
+      "type": "CARDINAL",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "6",
+      "type": "CARDINAL",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "Design Team Reports",
+      "type": "ORG",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "11",
+      "type": "CARDINAL",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "7",
+      "type": "CARDINAL",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "Metrics 13\n8",
+      "type": "DATE",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "Feedback 15\n9",
+      "type": "LAW",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "Infrastructure & Scalability",
+      "type": "ORG",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "18",
+      "type": "CARDINAL",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "19",
+      "type": "CARDINAL",
+      "paragraph_id": "para_1",
+      "page": 2
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_2",
+      "page": 3
+    },
+    {
+      "text": "Digital",
+      "type": "ORG",
+      "paragraph_id": "para_2",
+      "page": 3
+    },
+    {
+      "text": "Frontier",
+      "type": "ORG",
+      "paragraph_id": "para_2",
+      "page": 3
+    },
+    {
+      "text": "September 2025",
+      "type": "DATE",
+      "paragraph_id": "para_2",
+      "page": 3
+    },
+    {
+      "text": "Alpha",
+      "type": "PERSON",
+      "paragraph_id": "para_2",
+      "page": 3
+    },
+    {
+      "text": "February 2026",
+      "type": "DATE",
+      "paragraph_id": "para_2",
+      "page": 3
+    },
+    {
+      "text": "Alpha",
+      "type": "PERSON",
+      "paragraph_id": "para_2",
+      "page": 3
+    },
+    {
+      "text": "AI",
+      "type": "ORG",
+      "paragraph_id": "para_2",
+      "page": 3
+    },
+    {
+      "text": "NPC",
+      "type": "ORG",
+      "paragraph_id": "para_2",
+      "page": 3
+    },
+    {
+      "text": "5%",
+      "type": "PERCENT",
+      "paragraph_id": "para_2",
+      "page": 3
+    },
+    {
+      "text": "NPC",
+      "type": "ORG",
+      "paragraph_id": "para_2",
+      "page": 3
+    },
+    {
+      "text": "100K+",
+      "type": "CARDINAL",
+      "paragraph_id": "para_2",
+      "page": 3
+    },
+    {
+      "text": "Revised Timeline",
+      "type": "PERSON",
+      "paragraph_id": "para_2",
+      "page": 3
+    },
+    {
+      "text": "Q3 2026",
+      "type": "DATE",
+      "paragraph_id": "para_2",
+      "page": 3
+    },
+    {
+      "text": "$1.85M",
+      "type": "MONEY",
+      "paragraph_id": "para_2",
+      "page": 3
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_3",
+      "page": 4
+    },
+    {
+      "text": "Project Timeline & Milestones\nPhase Target Date Status",
+      "type": "ORG",
+      "paragraph_id": "para_3",
+      "page": 4
+    },
+    {
+      "text": "2025-09-01",
+      "type": "DATE",
+      "paragraph_id": "para_3",
+      "page": 4
+    },
+    {
+      "text": "Completed\nConcept & Design Phase",
+      "type": "ORG",
+      "paragraph_id": "para_3",
+      "page": 4
+    },
+    {
+      "text": "2025-10-15",
+      "type": "DATE",
+      "paragraph_id": "para_3",
+      "page": 4
+    },
+    {
+      "text": "2025-12",
+      "type": "DATE",
+      "paragraph_id": "para_3",
+      "page": 4
+    },
+    {
+      "text": "2026-01-31",
+      "type": "DATE",
+      "paragraph_id": "para_3",
+      "page": 4
+    },
+    {
+      "text": "2026-03-15",
+      "type": "DATE",
+      "paragraph_id": "para_3",
+      "page": 4
+    },
+    {
+      "text": "2026-07-01",
+      "type": "DATE",
+      "paragraph_id": "para_3",
+      "page": 4
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "Budget Overview\nCategory Allocation Spent",
+      "type": "ORG",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "$8,575,000 $5,420,000 $3,155,000",
+      "type": "MONEY",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "Graphics & Art",
+      "type": "ORG",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "$6,125,000 $4,890,000 $",
+      "type": "MONEY",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "1,235,000",
+      "type": "MONEY",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "$4,900,000 $3,210,000 $",
+      "type": "MONEY",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "1,690,000",
+      "type": "MONEY",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "$2,450,000 $620,000 $1,830,000",
+      "type": "MONEY",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "QA & Testing",
+      "type": "ORG",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "$1,715,000 $890,000 $",
+      "type": "MONEY",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "825,000",
+      "type": "MONEY",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "$735,000 $410,000 $",
+      "type": "MONEY",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "325,000",
+      "type": "MONEY",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "$1,850,000 $",
+      "type": "MONEY",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "1,850,000",
+      "type": "MONEY",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "26,350,000",
+      "type": "MONEY",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "10,910,000",
+      "type": "MONEY",
+      "paragraph_id": "para_4",
+      "page": 5
+    },
+    {
+      "text": "4",
+      "type": "CARDINAL",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "Executive Communications\nKey",
+      "type": "ORG",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "Alexandra Chen",
+      "type": "PERSON",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "PERSON",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "Jonathan Wei",
+      "type": "PERSON",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "Elena Vasquez",
+      "type": "PERSON",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "September 3, 2025",
+      "type": "DATE",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "9:15 AM",
+      "type": "TIME",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "the Digital Frontier - Official Project\nGreenlight\nDear Team",
+      "type": "ORG",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "AI Legends: Chronicles of the Digital Frontier",
+      "type": "WORK_OF_ART",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "NeuralForge AI Studios",
+      "type": "ORG",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "Marcus",
+      "type": "GPE",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "NPC",
+      "type": "ORG",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "$24.5 million",
+      "type": "MONEY",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "10 months",
+      "type": "DATE",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "Q3 2026",
+      "type": "DATE",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "24 months",
+      "type": "DATE",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "millions",
+      "type": "CARDINAL",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "Marcus",
+      "type": "GPE",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "Jonathan",
+      "type": "PERSON",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "end of week",
+      "type": "DATE",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "Sarah",
+      "type": "PERSON",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "Elena",
+      "type": "ORG",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "Alexandra Chen\nCEO",
+      "type": "PERSON",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "NeuralForge AI Studios",
+      "type": "ORG",
+      "paragraph_id": "para_5",
+      "page": 6
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "PERSON",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "Priya Sharma",
+      "type": "PERSON",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "David Okonkwo",
+      "type": "PERSON",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "James Morrison",
+      "type": "PERSON",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "September 8, 2025",
+      "type": "DATE",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "2:30 PM",
+      "type": "TIME",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "Sarah",
+      "type": "PERSON",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "Alexandra",
+      "type": "ORG",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "AI Legends",
+      "type": "ORG",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "CORE AI",
+      "type": "ORG",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "NNE",
+      "type": "ORG",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "50",
+      "type": "CARDINAL",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "Adaptive Behavior Intelligence",
+      "type": "ORG",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "NPC",
+      "type": "ORG",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "David",
+      "type": "PERSON",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "Procedural World Synthesis",
+      "type": "ORG",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "PWS",
+      "type": "ORG",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "Elena",
+      "type": "ORG",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "4",
+      "type": "CARDINAL",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "Dynamic Difficulty Orchestration",
+      "type": "ORG",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "DDO",
+      "type": "ORG",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "5.3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "AI",
+      "type": "GPE",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "PyTorch 2.0",
+      "type": "LAW",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "GPU",
+      "type": "ORG",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "Redis",
+      "type": "PERSON",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "Monday",
+      "type": "DATE",
+      "paragraph_id": "para_6",
+      "page": 7
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "PERSON",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "NeuralForge AI Studios",
+      "type": "ORG",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "Jonathan Wei",
+      "type": "PERSON",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "Alexandra Chen",
+      "type": "PERSON",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "PERSON",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "October 15, 2025",
+      "type": "DATE",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "4:45 PM",
+      "type": "TIME",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "Q4 2025 Budget Analysis - AI",
+      "type": "ORG",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "Digital",
+      "type": "ORG",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "Alexandra",
+      "type": "PERSON",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "Q4 2025",
+      "type": "DATE",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "Total Approved Budget",
+      "type": "ORG",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "24,500,000",
+      "type": "MONEY",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "Breakdown by Category",
+      "type": "WORK_OF_ART",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "AI Development & Research",
+      "type": "ORG",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "8,575,000",
+      "type": "MONEY",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "35%",
+      "type": "PERCENT",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "6,125,000",
+      "type": "MONEY",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "25%",
+      "type": "PERCENT",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "- Engineering & Infrastructure",
+      "type": "ORG",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "4,900,000",
+      "type": "MONEY",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "20%",
+      "type": "PERCENT",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "2,450,000",
+      "type": "MONEY",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "10%",
+      "type": "PERCENT",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "1,715,000",
+      "type": "MONEY",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "7%",
+      "type": "PERCENT",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "735,000",
+      "type": "MONEY",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "3%",
+      "type": "PERCENT",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "Q4 2025",
+      "type": "DATE",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "Budget",
+      "type": "ORG",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "6,200,000",
+      "type": "MONEY",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "5,890,000",
+      "type": "MONEY",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "310,000",
+      "type": "MONEY",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "5%",
+      "type": "PERCENT",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "GPU",
+      "type": "ORG",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "January",
+      "type": "DATE",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "Marcus",
+      "type": "ORG",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "GPU",
+      "type": "ORG",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "15%",
+      "type": "PERCENT",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_7",
+      "page": 8
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_8",
+      "page": 9
+    },
+    {
+      "text": "$200K",
+      "type": "MONEY",
+      "paragraph_id": "para_8",
+      "page": 9
+    },
+    {
+      "text": "Q1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_8",
+      "page": 9
+    },
+    {
+      "text": "AI",
+      "type": "GPE",
+      "paragraph_id": "para_8",
+      "page": 9
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_8",
+      "page": 9
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_8",
+      "page": 9
+    },
+    {
+      "text": "500",
+      "type": "MONEY",
+      "paragraph_id": "para_8",
+      "page": 9
+    },
+    {
+      "text": "Thursday",
+      "type": "DATE",
+      "paragraph_id": "para_8",
+      "page": 9
+    },
+    {
+      "text": "Jonathan Wei\nCFO",
+      "type": "PERSON",
+      "paragraph_id": "para_8",
+      "page": 9
+    },
+    {
+      "text": "NeuralForge AI Studios",
+      "type": "ORG",
+      "paragraph_id": "para_8",
+      "page": 9
+    },
+    {
+      "text": "5",
+      "type": "CARDINAL",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "Technical Team Updates\nEngineering",
+      "type": "ORG",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "PERSON",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "David Okonkwo",
+      "type": "PERSON",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "Priya Sharma",
+      "type": "PERSON",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "January 12, 2026",
+      "type": "DATE",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "11:20 AM\nSubject:",
+      "type": "TIME",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "Alpha Build Progress Report - Week 16",
+      "type": "ORG",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "Marcus",
+      "type": "GPE",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "Alpha",
+      "type": "PERSON",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "COMPLETED",
+      "type": "ORG",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "RAM",
+      "type": "ORG",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "23%",
+      "type": "PERCENT",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "ETA",
+      "type": "ORG",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "Jan 20",
+      "type": "DATE",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "QA",
+      "type": "ORG",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "Chapter 2",
+      "type": "LAW",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "1 week",
+      "type": "DATE",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "94.2%",
+      "type": "PERCENT",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "95%",
+      "type": "PERCENT",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "58",
+      "type": "CARDINAL",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "12.3 seconds",
+      "type": "TIME",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "10 seconds",
+      "type": "TIME",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "23",
+      "type": "CARDINAL",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "47",
+      "type": "CARDINAL",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "this week",
+      "type": "DATE",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "David",
+      "type": "PERSON",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "NPC",
+      "type": "ORG",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "2+\nhours",
+      "type": "DATE",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "tomorrow",
+      "type": "DATE",
+      "paragraph_id": "para_9",
+      "page": 10
+    },
+    {
+      "text": "tomorrow",
+      "type": "DATE",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "Priya Sharma",
+      "type": "NORP",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "PERSON",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "David Okonkwo",
+      "type": "PERSON",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "January 18, 2026",
+      "type": "DATE",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "3:15 PM",
+      "type": "TIME",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "NPC Behavior Analysis - Unexpected Emergent Behaviors",
+      "type": "ORG",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "Sarah",
+      "type": "PERSON",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "week",
+      "type": "DATE",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "AI",
+      "type": "GPE",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "Alliance Formation\nNPCs",
+      "type": "ORG",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_10",
+      "page": 11
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "NPC",
+      "type": "ORG",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "Priya Sharma",
+      "type": "PERSON",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "Elena Vasquez",
+      "type": "PERSON",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "Alexandra Chen",
+      "type": "PERSON",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "PERSON",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "Yuki Tanaka",
+      "type": "PERSON",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "Michael Park",
+      "type": "PERSON",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "November 20, 2025",
+      "type": "DATE",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "10:00 AM\nSubject:",
+      "type": "TIME",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "Alexandra",
+      "type": "PERSON",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "Art Direction",
+      "type": "ORG",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "three",
+      "type": "CARDINAL",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "Art Style",
+      "type": "WORK_OF_ART",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "Michelangelo",
+      "type": "PERSON",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "Color Palette",
+      "type": "PERSON",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "1a5276",
+      "type": "MONEY",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "c0392b",
+      "type": "PERSON",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "5d6d7e",
+      "type": "MONEY",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "UI",
+      "type": "ORG",
+      "paragraph_id": "para_11",
+      "page": 12
+    },
+    {
+      "text": "AI",
+      "type": "GPE",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "Three",
+      "type": "CARDINAL",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "Synthesis Cities",
+      "type": "ORG",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "The Organic Wilds - nature",
+      "type": "ORG",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "Digital Realm",
+      "type": "ORG",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "FOCUS GROUP FEEDBACK",
+      "type": "ORG",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "87%",
+      "type": "PERCENT",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "92%",
+      "type": "PERCENT",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "Yuki",
+      "type": "PERSON",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "Michael",
+      "type": "PERSON",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "UI",
+      "type": "ORG",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "this\nweek",
+      "type": "DATE",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "Elena Vasquez",
+      "type": "PERSON",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "Michael Park",
+      "type": "PERSON",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "Elena Vasquez",
+      "type": "PERSON",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "Yuki Tanaka",
+      "type": "PERSON",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "December 8, 2025",
+      "type": "DATE",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "2:45 PM",
+      "type": "TIME",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "24",
+      "type": "CARDINAL",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "2.3 seconds",
+      "type": "TIME",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "3s",
+      "type": "CARDINAL",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "4.1 seconds",
+      "type": "TIME",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "4s",
+      "type": "CARDINAL",
+      "paragraph_id": "para_12",
+      "page": 13
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "96%",
+      "type": "PERCENT",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "88%",
+      "type": "PERCENT",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "12%",
+      "type": "PERCENT",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "Inventory System",
+      "type": "ORG",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "79%",
+      "type": "PERCENT",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "6",
+      "type": "CARDINAL",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "4",
+      "type": "CARDINAL",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "Companion Interface\n- Users",
+      "type": "PERSON",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "4",
+      "type": "CARDINAL",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "HUD",
+      "type": "ORG",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "Friday",
+      "type": "DATE",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "Michael Park",
+      "type": "PERSON",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "David Okonkwo",
+      "type": "PERSON",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "PERSON",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "James Morrison",
+      "type": "PERSON",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "January 25, 2026",
+      "type": "DATE",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "5:30 PM",
+      "type": "TIME",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "Sarah",
+      "type": "PERSON",
+      "paragraph_id": "para_13",
+      "page": 14
+    },
+    {
+      "text": "January",
+      "type": "DATE",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "Frame Rate",
+      "type": "ORG",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "58",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "72",
+      "type": "DATE",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "4",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "Ultra",
+      "type": "ORG",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "31",
+      "type": "DATE",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "44",
+      "type": "DATE",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "34",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "52",
+      "type": "DATE",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "8.2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "6.8 GB",
+      "type": "PERSON",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "-17%",
+      "type": "PERCENT",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "7.1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "5.9",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "-17%",
+      "type": "PERCENT",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "NPC",
+      "type": "ORG",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "Load Times",
+      "type": "ORG",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "12.3s",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "-29%",
+      "type": "PERCENT",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "4.2s",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "2.1s",
+      "type": "DATE",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "-50%",
+      "type": "PERCENT",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "3.8s",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "1.9s",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "-50%",
+      "type": "PERCENT",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "GPU",
+      "type": "ORG",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "40%",
+      "type": "PERCENT",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "LOD System Overhaul",
+      "type": "PRODUCT",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "5",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "LOD",
+      "type": "ORG",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "4",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "AI Inference Optimization\nMoved NPC",
+      "type": "ORG",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "5",
+      "type": "CARDINAL",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "Shader Optimization\nRewrote",
+      "type": "ORG",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "PBR",
+      "type": "ORG",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "15%",
+      "type": "PERCENT",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "GPU",
+      "type": "ORG",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "20+",
+      "type": "DATE",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "James",
+      "type": "PERSON",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "next\nweek",
+      "type": "DATE",
+      "paragraph_id": "para_14",
+      "page": 15
+    },
+    {
+      "text": "David Okonkwo",
+      "type": "PERSON",
+      "paragraph_id": "para_15",
+      "page": 16
+    },
+    {
+      "text": "6",
+      "type": "CARDINAL",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "Design Team Reports\nVisual",
+      "type": "ORG",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "Elena Vasquez",
+      "type": "PERSON",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "Alexandra Chen",
+      "type": "PERSON",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "PERSON",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "Yuki Tanaka",
+      "type": "PERSON",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "Michael Park",
+      "type": "PERSON",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "November 20, 2025",
+      "type": "DATE",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "10:00 AM\nSubject:",
+      "type": "TIME",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "Alexandra",
+      "type": "PERSON",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "Art Direction",
+      "type": "ORG",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "three",
+      "type": "CARDINAL",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "Art Style",
+      "type": "WORK_OF_ART",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "Michelangelo",
+      "type": "PERSON",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "Color Palette",
+      "type": "PERSON",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "1a5276",
+      "type": "MONEY",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "c0392b",
+      "type": "PERSON",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "5d6d7e",
+      "type": "MONEY",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "UI",
+      "type": "ORG",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "Character Design Philosophy",
+      "type": "ORG",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "AI",
+      "type": "GPE",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "Three",
+      "type": "CARDINAL",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "Synthesis Cities",
+      "type": "ORG",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "The Organic Wilds - nature",
+      "type": "ORG",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "Digital Realm",
+      "type": "ORG",
+      "paragraph_id": "para_16",
+      "page": 17
+    },
+    {
+      "text": "FOCUS GROUP FEEDBACK",
+      "type": "ORG",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "87%",
+      "type": "PERCENT",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "92%",
+      "type": "PERCENT",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "Yuki",
+      "type": "PERSON",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "Michael",
+      "type": "PERSON",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "UI",
+      "type": "ORG",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "this\nweek",
+      "type": "DATE",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "Elena Vasquez",
+      "type": "PERSON",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "Michael Park",
+      "type": "PERSON",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "Elena Vasquez",
+      "type": "PERSON",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "Yuki Tanaka",
+      "type": "PERSON",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "December 8, 2025",
+      "type": "DATE",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "2:45 PM",
+      "type": "TIME",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "24",
+      "type": "CARDINAL",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "2.3 seconds",
+      "type": "TIME",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "3s",
+      "type": "CARDINAL",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "4.1 seconds",
+      "type": "TIME",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "4s",
+      "type": "CARDINAL",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "96%",
+      "type": "PERCENT",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "88%",
+      "type": "PERCENT",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "12%",
+      "type": "PERCENT",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "Inventory System",
+      "type": "ORG",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "79%",
+      "type": "PERCENT",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "6",
+      "type": "CARDINAL",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_17",
+      "page": 18
+    },
+    {
+      "text": "4",
+      "type": "CARDINAL",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "Companion Interface\n- Users",
+      "type": "PERSON",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "4",
+      "type": "CARDINAL",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "HUD",
+      "type": "ORG",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "Friday",
+      "type": "DATE",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "Michael Park",
+      "type": "PERSON",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "Yuki Tanaka",
+      "type": "PERSON",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "Elena Vasquez",
+      "type": "PERSON",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "Alexandra Chen",
+      "type": "PERSON",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "January 22, 2026",
+      "type": "DATE",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "4:00 PM",
+      "type": "TIME",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "Chapter 3",
+      "type": "LAW",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "4",
+      "type": "CARDINAL",
+      "paragraph_id": "para_18",
+      "page": 19
+    },
+    {
+      "text": "Chapter 3: The Organic Wilds\n- Environment",
+      "type": "LAW",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "847",
+      "type": "CARDINAL",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "23",
+      "type": "CARDINAL",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "12",
+      "type": "CARDINAL",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "156",
+      "type": "CARDINAL",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "Chapter 4:",
+      "type": "LAW",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "623",
+      "type": "CARDINAL",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "The Architect",
+      "type": "WORK_OF_ART",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "47",
+      "type": "CARDINAL",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "4",
+      "type": "CARDINAL",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "12 minutes",
+      "type": "TIME",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "Chapter 5",
+      "type": "LAW",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "40%",
+      "type": "PERCENT",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "60%",
+      "type": "PERCENT",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "March 1",
+      "type": "DATE",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "4K",
+      "type": "CARDINAL",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "Polygon",
+      "type": "ORG",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "15%",
+      "type": "PERCENT",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "8%",
+      "type": "PERCENT",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "above standard hours",
+      "type": "TIME",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "one",
+      "type": "CARDINAL",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "The Organic Wilds",
+      "type": "ORG",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "Yuki Tanaka",
+      "type": "PERSON",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "Elena Vasquez",
+      "type": "PERSON",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "Alexandra Chen",
+      "type": "PERSON",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "PERSON",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "Yuki Tanaka",
+      "type": "PERSON",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "Michael Park",
+      "type": "PERSON",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "February 5, 2026",
+      "type": "DATE",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "5:15 PM",
+      "type": "TIME",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "Polish",
+      "type": "NORP",
+      "paragraph_id": "para_19",
+      "page": 20
+    },
+    {
+      "text": "Alexandra",
+      "type": "PERSON",
+      "paragraph_id": "para_20",
+      "page": 21
+    },
+    {
+      "text": "Lighting Overhaul",
+      "type": "PERSON",
+      "paragraph_id": "para_20",
+      "page": 21
+    },
+    {
+      "text": "24",
+      "type": "CARDINAL",
+      "paragraph_id": "para_20",
+      "page": 21
+    },
+    {
+      "text": "UI Refinement",
+      "type": "ORG",
+      "paragraph_id": "para_20",
+      "page": 21
+    },
+    {
+      "text": "UI",
+      "type": "ORG",
+      "paragraph_id": "para_20",
+      "page": 21
+    },
+    {
+      "text": "Polish",
+      "type": "NORP",
+      "paragraph_id": "para_20",
+      "page": 21
+    },
+    {
+      "text": "200",
+      "type": "CARDINAL",
+      "paragraph_id": "para_20",
+      "page": 21
+    },
+    {
+      "text": "- Water",
+      "type": "WORK_OF_ART",
+      "paragraph_id": "para_20",
+      "page": 21
+    },
+    {
+      "text": "Alpha Build 0.7",
+      "type": "WORK_OF_ART",
+      "paragraph_id": "para_20",
+      "page": 21
+    },
+    {
+      "text": "7.8/10",
+      "type": "CARDINAL",
+      "paragraph_id": "para_20",
+      "page": 21
+    },
+    {
+      "text": "3.2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_20",
+      "page": 21
+    },
+    {
+      "text": "0.9",
+      "type": "CARDINAL",
+      "paragraph_id": "para_20",
+      "page": 21
+    },
+    {
+      "text": "11.7",
+      "type": "CARDINAL",
+      "paragraph_id": "para_20",
+      "page": 21
+    },
+    {
+      "text": "Screenshots",
+      "type": "ORG",
+      "paragraph_id": "para_20",
+      "page": 21
+    },
+    {
+      "text": "Elena Vasquez",
+      "type": "PERSON",
+      "paragraph_id": "para_21",
+      "page": 22
+    },
+    {
+      "text": "7",
+      "type": "CARDINAL",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "45",
+      "type": "CARDINAL",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "FPS",
+      "type": "ORG",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "FPS",
+      "type": "ORG",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "60",
+      "type": "CARDINAL",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "4K",
+      "type": "QUANTITY",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "25",
+      "type": "CARDINAL",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "FPS",
+      "type": "ORG",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "44",
+      "type": "CARDINAL",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "FPS",
+      "type": "ORG",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "30",
+      "type": "CARDINAL",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "FPS",
+      "type": "ORG",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "15.2s 8.7s 10s 3",
+      "type": "DATE",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "9.1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "GB 6.8 GB",
+      "type": "FAC",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "89.5%",
+      "type": "PERCENT",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "94.2%",
+      "type": "PERCENT",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "95%",
+      "type": "PERCENT",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "97.2%",
+      "type": "PERCENT",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "99.1%",
+      "type": "PERCENT",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "99.9%",
+      "type": "PERCENT",
+      "paragraph_id": "para_22",
+      "page": 23
+    },
+    {
+      "text": "Minor Total\nAI Systems",
+      "type": "ORG",
+      "paragraph_id": "para_23",
+      "page": 24
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_23",
+      "page": 24
+    },
+    {
+      "text": "15 25",
+      "type": "CARDINAL",
+      "paragraph_id": "para_23",
+      "page": 24
+    },
+    {
+      "text": "22 27",
+      "type": "DATE",
+      "paragraph_id": "para_23",
+      "page": 24
+    },
+    {
+      "text": "3 12",
+      "type": "DATE",
+      "paragraph_id": "para_23",
+      "page": 24
+    },
+    {
+      "text": "18 33",
+      "type": "DATE",
+      "paragraph_id": "para_23",
+      "page": 24
+    },
+    {
+      "text": "UI",
+      "type": "ORG",
+      "paragraph_id": "para_23",
+      "page": 24
+    },
+    {
+      "text": "31 35",
+      "type": "DATE",
+      "paragraph_id": "para_23",
+      "page": 24
+    },
+    {
+      "text": "8 24",
+      "type": "DATE",
+      "paragraph_id": "para_23",
+      "page": 24
+    },
+    {
+      "text": "12 16",
+      "type": "DATE",
+      "paragraph_id": "para_23",
+      "page": 24
+    },
+    {
+      "text": "8",
+      "type": "CARDINAL",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "Chris Anderson",
+      "type": "PERSON",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "Elena Vasquez",
+      "type": "PERSON",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "January 28, 2026",
+      "type": "DATE",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "9:00 AM",
+      "type": "TIME",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "Alpha Build Playtest Report",
+      "type": "ORG",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "Sarah",
+      "type": "PERSON",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "Completed",
+      "type": "ORG",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "40-hour",
+      "type": "TIME",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "Alpha Build 0.7.2",
+      "type": "ORG",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "AI",
+      "type": "GPE",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "AI",
+      "type": "GPE",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "Echo",
+      "type": "WORK_OF_ART",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "three",
+      "type": "CARDINAL",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "Forgotten Archive",
+      "type": "WORK_OF_ART",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "Chapter 2",
+      "type": "LAW",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "Elder Kai",
+      "type": "PERSON",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "Shrine",
+      "type": "ORG",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "Digital Realm",
+      "type": "ORG",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "FPS",
+      "type": "ORG",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "Synthesis City",
+      "type": "GPE",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "NPC",
+      "type": "ORG",
+      "paragraph_id": "para_24",
+      "page": 25
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "AI",
+      "type": "ORG",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "AI",
+      "type": "ORG",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "Chris Anderson",
+      "type": "PERSON",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "Lisa Martinez",
+      "type": "PERSON",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "Elena Vasquez",
+      "type": "PERSON",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "Michael Park",
+      "type": "PERSON",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "January 30, 2026",
+      "type": "DATE",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "11:15 AM",
+      "type": "TIME",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "Alpha",
+      "type": "PERSON",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "200%",
+      "type": "PERCENT",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_25",
+      "page": 26
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_26",
+      "page": 27
+    },
+    {
+      "text": "One",
+      "type": "CARDINAL",
+      "paragraph_id": "para_26",
+      "page": 27
+    },
+    {
+      "text": "Cognitive Accessibility",
+      "type": "WORK_OF_ART",
+      "paragraph_id": "para_26",
+      "page": 27
+    },
+    {
+      "text": "7.2/10",
+      "type": "CARDINAL",
+      "paragraph_id": "para_26",
+      "page": 27
+    },
+    {
+      "text": "Lisa Martinez",
+      "type": "PERSON",
+      "paragraph_id": "para_26",
+      "page": 27
+    },
+    {
+      "text": "Robert Kim",
+      "type": "PERSON",
+      "paragraph_id": "para_26",
+      "page": 27
+    },
+    {
+      "text": "David Okonkwo",
+      "type": "PERSON",
+      "paragraph_id": "para_26",
+      "page": 27
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_26",
+      "page": 27
+    },
+    {
+      "text": "James Morrison",
+      "type": "PERSON",
+      "paragraph_id": "para_26",
+      "page": 27
+    },
+    {
+      "text": "February 1, 2026",
+      "type": "DATE",
+      "paragraph_id": "para_26",
+      "page": 27
+    },
+    {
+      "text": "3:30 PM",
+      "type": "TIME",
+      "paragraph_id": "para_26",
+      "page": 27
+    },
+    {
+      "text": "David",
+      "type": "PERSON",
+      "paragraph_id": "para_26",
+      "page": 27
+    },
+    {
+      "text": "US",
+      "type": "GPE",
+      "paragraph_id": "para_26",
+      "page": 27
+    },
+    {
+      "text": "72 hours",
+      "type": "TIME",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "100-10,000",
+      "type": "CARDINAL",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "0% - 5%",
+      "type": "PERCENT",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "99.97%",
+      "type": "PERCENT",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "12ms",
+      "type": "ORDINAL",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "99.94%",
+      "type": "PERCENT",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "28ms",
+      "type": "ORDINAL",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "5,000",
+      "type": "CARDINAL",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "99.12%",
+      "type": "PERCENT",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "67ms",
+      "type": "ORDINAL",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "10,000",
+      "type": "CARDINAL",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "97.23%",
+      "type": "PERCENT",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "Memory Leak (Critical",
+      "type": "ORG",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "24 hours",
+      "type": "TIME",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "NPC",
+      "type": "ORG",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "every ~30 seconds",
+      "type": "TIME",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "approximately 8%",
+      "type": "PERCENT",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "Database Bottleneck",
+      "type": "PERSON",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "7,500",
+      "type": "CARDINAL",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "10+ second",
+      "type": "TIME",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "4",
+      "type": "CARDINAL",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "Chat System",
+      "type": "ORG",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "PgBouncer",
+      "type": "PERSON",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "NPC",
+      "type": "ORG",
+      "paragraph_id": "para_27",
+      "page": 28
+    },
+    {
+      "text": "50,000",
+      "type": "CARDINAL",
+      "paragraph_id": "para_28",
+      "page": 29
+    },
+    {
+      "text": "Robert Kim",
+      "type": "PERSON",
+      "paragraph_id": "para_28",
+      "page": 29
+    },
+    {
+      "text": "9",
+      "type": "CARDINAL",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "Infrastructure & Scalability\nServer",
+      "type": "ORG",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "James Morrison",
+      "type": "PERSON",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "PERSON",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "David Okonkwo",
+      "type": "PERSON",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "February 4, 2026",
+      "type": "DATE",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "9:30 AM\nSubject: Server Infrastructure - Post-Stress Test Action Plan\nMarcus",
+      "type": "TIME",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "Following Robert's",
+      "type": "PERSON",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "This Week",
+      "type": "DATE",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "NPC",
+      "type": "ORG",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "3x",
+      "type": "CARDINAL",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "today",
+      "type": "DATE",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "Next 2 Weeks",
+      "type": "DATE",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "250ms",
+      "type": "ORG",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "4",
+      "type": "CARDINAL",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "Database Sharding",
+      "type": "PERSON",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "PostgreSQL",
+      "type": "GPE",
+      "paragraph_id": "para_29",
+      "page": 30
+    },
+    {
+      "text": "5",
+      "type": "CARDINAL",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "Global Infrastructure\n- US-East",
+      "type": "ORG",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "US",
+      "type": "GPE",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "6",
+      "type": "CARDINAL",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "15-minute",
+      "type": "TIME",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "RPO",
+      "type": "ORG",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "1-hour",
+      "type": "TIME",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "RTO",
+      "type": "ORG",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "monthly",
+      "type": "DATE",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "47,000",
+      "type": "MONEY",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "68,000",
+      "type": "MONEY",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "21,000",
+      "type": "MONEY",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "One",
+      "type": "CARDINAL",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "35,000",
+      "type": "MONEY",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "28,000",
+      "type": "MONEY",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "2 months",
+      "type": "DATE",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "100,000",
+      "type": "CARDINAL",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "99.9%",
+      "type": "PERCENT",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "James Morrison",
+      "type": "PERSON",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "US",
+      "type": "GPE",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "28ms Active",
+      "type": "DATE",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "US",
+      "type": "GPE",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "35,000",
+      "type": "CARDINAL",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "40,000",
+      "type": "CARDINAL",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "45ms",
+      "type": "ORDINAL",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "Asia-Pacific",
+      "type": "LOC",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "30,000",
+      "type": "CARDINAL",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "67ms",
+      "type": "ORDINAL",
+      "paragraph_id": "para_30",
+      "page": 31
+    },
+    {
+      "text": "10",
+      "type": "CARDINAL",
+      "paragraph_id": "para_31",
+      "page": 32
+    },
+    {
+      "text": "Charts & Data\nTeam Resource Allocation",
+      "type": "ORG",
+      "paragraph_id": "para_31",
+      "page": 32
+    },
+    {
+      "text": "Alexandra Chen",
+      "type": "PERSON",
+      "paragraph_id": "para_31",
+      "page": 32
+    },
+    {
+      "text": "CTO",
+      "type": "ORG",
+      "paragraph_id": "para_31",
+      "page": 32
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "PERSON",
+      "paragraph_id": "para_31",
+      "page": 32
+    },
+    {
+      "text": "Jonathan Wei",
+      "type": "PERSON",
+      "paragraph_id": "para_31",
+      "page": 32
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_31",
+      "page": 32
+    },
+    {
+      "text": "David Okonkwo",
+      "type": "PERSON",
+      "paragraph_id": "para_31",
+      "page": 32
+    },
+    {
+      "text": "James Morrison james.m@neuralforge.ai",
+      "type": "PERSON",
+      "paragraph_id": "para_31",
+      "page": 32
+    },
+    {
+      "text": "Michael Park michael.p@neuralforge.ai",
+      "type": "PERSON",
+      "paragraph_id": "para_31",
+      "page": 32
+    },
+    {
+      "text": "Yuki Tanaka",
+      "type": "PERSON",
+      "paragraph_id": "para_31",
+      "page": 32
+    },
+    {
+      "text": "yuki.t@neuralforge.ai",
+      "type": "ORG",
+      "paragraph_id": "para_31",
+      "page": 32
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_32",
+      "page": 33
+    },
+    {
+      "text": "Chris Anderson chris.a@betatest.io",
+      "type": "PERSON",
+      "paragraph_id": "para_32",
+      "page": 33
+    },
+    {
+      "text": "Lisa Martinez",
+      "type": "PERSON",
+      "paragraph_id": "para_32",
+      "page": 33
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_32",
+      "page": 33
+    },
+    {
+      "text": "Robert Kim",
+      "type": "PERSON",
+      "paragraph_id": "para_32",
+      "page": 33
+    },
+    {
+      "text": "Additional Executive Correspondence",
+      "type": "ORG",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "Alexandra Chen",
+      "type": "PERSON",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "PERSON",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "Jonathan Wei",
+      "type": "PERSON",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "Elena Vasquez",
+      "type": "PERSON",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "February 3, 2026",
+      "type": "DATE",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "8:00 AM",
+      "type": "TIME",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "Alpha",
+      "type": "PERSON",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "AI",
+      "type": "ORG",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "NPC",
+      "type": "ORG",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "Elena",
+      "type": "ORG",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "Alpha",
+      "type": "PERSON",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "3 hours",
+      "type": "TIME",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "30 minutes",
+      "type": "TIME",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "30",
+      "type": "CARDINAL",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "Multiplayer Stability",
+      "type": "PERSON",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "Robert",
+      "type": "PERSON",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "Lisa",
+      "type": "PERSON",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "2026",
+      "type": "DATE",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "4",
+      "type": "CARDINAL",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "Jonathan",
+      "type": "PERSON",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "an additional $2.1M",
+      "type": "MONEY",
+      "paragraph_id": "para_33",
+      "page": 34
+    },
+    {
+      "text": "DECISIONS",
+      "type": "ORG",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "1",
+      "type": "CARDINAL",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "Thursday",
+      "type": "DATE",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "Alexandra Chen\nCEO",
+      "type": "PERSON",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "NeuralForge AI Studios",
+      "type": "ORG",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "PERSON",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "Alexandra Chen",
+      "type": "PERSON",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "Jonathan Wei",
+      "type": "PERSON",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "Sarah Kowalski",
+      "type": "PERSON",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "February 3, 2026",
+      "type": "DATE",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "10:45 AM\nSubject:",
+      "type": "TIME",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "Sarah",
+      "type": "PERSON",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "Jonathan",
+      "type": "PERSON",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "David",
+      "type": "PERSON",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "3",
+      "type": "CARDINAL",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "4 weeks",
+      "type": "DATE",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "LOD",
+      "type": "ORG",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "Synthesis City",
+      "type": "GPE",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "NPC",
+      "type": "ORG",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "20%",
+      "type": "PERCENT",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "MULTIPLAYER",
+      "type": "NORP",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "340,000",
+      "type": "MONEY",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "120,000",
+      "type": "MONEY",
+      "paragraph_id": "para_34",
+      "page": 35
+    },
+    {
+      "text": "60 days",
+      "type": "DATE",
+      "paragraph_id": "para_35",
+      "page": 36
+    },
+    {
+      "text": "45,000",
+      "type": "MONEY",
+      "paragraph_id": "para_35",
+      "page": 36
+    },
+    {
+      "text": "$2.1M",
+      "type": "MONEY",
+      "paragraph_id": "para_35",
+      "page": 36
+    },
+    {
+      "text": "680,000",
+      "type": "MONEY",
+      "paragraph_id": "para_35",
+      "page": 36
+    },
+    {
+      "text": "QA",
+      "type": "ORG",
+      "paragraph_id": "para_35",
+      "page": 36
+    },
+    {
+      "text": "420,000",
+      "type": "MONEY",
+      "paragraph_id": "para_35",
+      "page": 36
+    },
+    {
+      "text": "210,000",
+      "type": "MONEY",
+      "paragraph_id": "para_35",
+      "page": 36
+    },
+    {
+      "text": "790,000",
+      "type": "MONEY",
+      "paragraph_id": "para_35",
+      "page": 36
+    },
+    {
+      "text": "Jonathan",
+      "type": "PERSON",
+      "paragraph_id": "para_35",
+      "page": 36
+    },
+    {
+      "text": "Thursday",
+      "type": "DATE",
+      "paragraph_id": "para_35",
+      "page": 36
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "ORG",
+      "paragraph_id": "para_35",
+      "page": 36
+    },
+    {
+      "text": "NeuralForge AI Studios",
+      "type": "ORG",
+      "paragraph_id": "para_35",
+      "page": 36
+    },
+    {
+      "text": "Jonathan Wei",
+      "type": "PERSON",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "Alexandra Chen",
+      "type": "PERSON",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "Marcus Rivera",
+      "type": "PERSON",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "February 5, 2026",
+      "type": "DATE",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "2:00 PM",
+      "type": "TIME",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "Alexandra",
+      "type": "PERSON",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "Thursday",
+      "type": "DATE",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "24,500,000",
+      "type": "MONEY",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "1,850,000",
+      "type": "MONEY",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "New Total Budget",
+      "type": "ORG",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "26,350,000",
+      "type": "MONEY",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "Performance & Multiplayer",
+      "type": "ORG",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "720,000",
+      "type": "MONEY",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "2",
+      "type": "CARDINAL",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "3 months",
+      "type": "DATE",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "Accessibility Implementation",
+      "type": "WORK_OF_ART",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "195,000",
+      "type": "MONEY",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "385,000",
+      "type": "MONEY",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "3 weeks",
+      "type": "DATE",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "150,000",
+      "type": "MONEY",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "700,000",
+      "type": "MONEY",
+      "paragraph_id": "para_36",
+      "page": 37
+    },
+    {
+      "text": "February:",
+      "type": "DATE",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "+$620,000",
+      "type": "MONEY",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "March:",
+      "type": "DATE",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "+$540,000",
+      "type": "MONEY",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "April:",
+      "type": "DATE",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "380,000",
+      "type": "MONEY",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "QA",
+      "type": "ORG",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "May:",
+      "type": "DATE",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "+$310,000",
+      "type": "MONEY",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "polish",
+      "type": "NORP",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "$42M",
+      "type": "MONEY",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "170%",
+      "type": "PERCENT",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "$58M",
+      "type": "MONEY",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "220%",
+      "type": "PERCENT",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "$78M",
+      "type": "MONEY",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "296%",
+      "type": "PERCENT",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "Jonathan Wei\nCFO",
+      "type": "PERSON",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "NeuralForge AI Studios",
+      "type": "ORG",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "2026",
+      "type": "DATE",
+      "paragraph_id": "para_37",
+      "page": 38
+    },
+    {
+      "text": "NeuralForge AI Studios",
+      "type": "ORG",
+      "paragraph_id": "para_37",
+      "page": 38
+    }
+  ]
+}
